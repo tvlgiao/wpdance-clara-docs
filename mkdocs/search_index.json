@@ -1,0 +1,169 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/installation/", 
+            "text": "Theme Installation\n\n\nGo to \nhttps://themeforest.net/downloads\n and download the theme \nInstallable WordPress file only\n:\n\n\n\n\nLogin to your WordPress admin, go to \nAppearance\n \n \nThemes\n, click button \nAdd New\n. Then click button \nUpload Theme\n, choose the zip file and click button Install Now start uploading the theme:\n\n\n\n\nClick \nActivate\n to activate the theme:\n\n\n\n\nIf you see below messages, it means the theme is installed and activated successfully:\n\n\n\n\nClick the button \nTheme Quickstart\n appear above to open the \nQuick Start\n page.", 
+            "title": "Installation"
+        }, 
+        {
+            "location": "/installation/#theme-installation", 
+            "text": "Go to  https://themeforest.net/downloads  and download the theme  Installable WordPress file only :   Login to your WordPress admin, go to  Appearance     Themes , click button  Add New . Then click button  Upload Theme , choose the zip file and click button Install Now start uploading the theme:   Click  Activate  to activate the theme:   If you see below messages, it means the theme is installed and activated successfully:   Click the button  Theme Quickstart  appear above to open the  Quick Start  page.", 
+            "title": "Theme Installation"
+        }, 
+        {
+            "location": "/quickstart/", 
+            "text": "Quick Start\n\n\n\n    \n\n        \n\n            \n\n            \nNote:\n You can skip this page, just follow instructions from the Theme Walkthrough to complete all steps.\n        \n\n    \n\n\n\n\n\nTheme Walkthrough Page\n\n\nTheme provide step by step walkthrough guide to help you quickly learning:\n\n\n\n\nActivate recommended plugins.\n\n\nNew features of the theme.\n\n\nTheme options.\n\n\nImport sample data to look like the demo site.\n\n\n\n\nNow click the button \nTheme Quickstart\n which appears after the theme is activated (alternatively, \nAppearance\n \n \nWPDanceClaraTheme\n):\n\n\n\n\nNext, click button \nLet's get started now\n and follow the rest instruction showing on your page:\n\n\n\n\nInstall Plugins\n\n\n\n\nWe recommend \ninstall\n and \nactivate\n all plugins for quick start. Laterly, you can deactivate any unnecessary plugin to improve site performance:\n\n\n\n\n\n    \n\n        \n\n            \n\n            Install \n&\n activate plugins may take a while.  Please patience. Also, we recommend \nactivate each plugin step by step\n.\n        \n\n    \n\n\n\n\n\nAfter all plugins are installed and activated, return the theme walkthrough page:\n\n\n\nImport Sample Sliders\n\n\nFollow the instruction to import sample sliders:\n\n\n\n\nClick \nImport Slider\n to start importing sample sliders:\n\n\n\n\nPlease find the zip files contain sample sliders in the full package download from ThemeForest Download page:\n\n\n\n\nUnzip the file and open directory \nsample-data/\n, import all slider \nhome-01\n, \nhome-02\n, \nhome-03\n, \nhome-04\n...\n\n\n\n\nImport Sample Data\n\n\nGo back to the theme walkthrough page, a new instruction will appear to guide you import sample data to look like our demo site.\n\n\n\n\nClick \nRun Importer\n\n\n\n\nChoose sample data file provided in the \nfull package file\n to start importing:\n\n\n\n\n\n\n\n    \n\n        \n\n            \n\n            Note: Don't choose **Download and import file attachments\n        \n\n    \n\n\n\n\n\nRepeat importing all other sample data files.\n\n\nAfter imported all sample data, go back the theme walkthrough page. Click button \nConfirm you got it\n to finish this step:\n\n\n\n\nChoose Default Header \n Footer\n\n\nThe new instruction will appear to show you how to configure default Header \n Footer for your site. Let follow the instruction, click button \nGo to Customizer\n:\n\n\n\n\nChoose a header and footer you want to set as default and click \nSave \n Publish\n button:\n\n\n\n\nBack to the theme walkthrough page.\n\n\nChoose a Homepage\n\n\nFollow the next instruction to specify a homepage. Click \nGo to Customizer\n button:\n\n\n\n\nConfigure as showing below, then click \nSave \n Publish\n button:\n\n\n\n\nBack to the theme walkthrough page.\n\n\nIntroduce Theme Customizer\n\n\nNew instruction appears to introduce about Theme Customzer, check it out and click button \nConfirm you got it\n to finish:\n\n\n\n\n\n\nIntroduce Theme Extra Options\n\n\nNew instruction appears to introduce about theme options available for specific pages, posts, post types, categories, taxonomies...\n\n\n\n\nCheck it out and click \nConfirm you got it\n button to finish this step:\n\n\n\n\nCongrats! You have just completed the quick start guide.\n\n\nView Your Website\n\n\nNow let's visit your website front page, before starting customization.", 
+            "title": "Quick Start"
+        }, 
+        {
+            "location": "/quickstart/#quick-start", 
+            "text": "Note:  You can skip this page, just follow instructions from the Theme Walkthrough to complete all steps.", 
+            "title": "Quick Start"
+        }, 
+        {
+            "location": "/quickstart/#theme-walkthrough-page", 
+            "text": "Theme provide step by step walkthrough guide to help you quickly learning:   Activate recommended plugins.  New features of the theme.  Theme options.  Import sample data to look like the demo site.   Now click the button  Theme Quickstart  which appears after the theme is activated (alternatively,  Appearance     WPDanceClaraTheme ):   Next, click button  Let's get started now  and follow the rest instruction showing on your page:", 
+            "title": "Theme Walkthrough Page"
+        }, 
+        {
+            "location": "/quickstart/#install-plugins", 
+            "text": "We recommend  install  and  activate  all plugins for quick start. Laterly, you can deactivate any unnecessary plugin to improve site performance:   \n     \n         \n             \n            Install  &  activate plugins may take a while.  Please patience. Also, we recommend  activate each plugin step by step .\n         \n       After all plugins are installed and activated, return the theme walkthrough page:", 
+            "title": "Install Plugins"
+        }, 
+        {
+            "location": "/quickstart/#import-sample-sliders", 
+            "text": "Follow the instruction to import sample sliders:   Click  Import Slider  to start importing sample sliders:   Please find the zip files contain sample sliders in the full package download from ThemeForest Download page:   Unzip the file and open directory  sample-data/ , import all slider  home-01 ,  home-02 ,  home-03 ,  home-04 ...", 
+            "title": "Import Sample Sliders"
+        }, 
+        {
+            "location": "/quickstart/#import-sample-data", 
+            "text": "Go back to the theme walkthrough page, a new instruction will appear to guide you import sample data to look like our demo site.   Click  Run Importer   Choose sample data file provided in the  full package file  to start importing:    \n     \n         \n             \n            Note: Don't choose **Download and import file attachments\n         \n       Repeat importing all other sample data files.  After imported all sample data, go back the theme walkthrough page. Click button  Confirm you got it  to finish this step:", 
+            "title": "Import Sample Data"
+        }, 
+        {
+            "location": "/quickstart/#choose-default-header-footer", 
+            "text": "The new instruction will appear to show you how to configure default Header   Footer for your site. Let follow the instruction, click button  Go to Customizer :   Choose a header and footer you want to set as default and click  Save   Publish  button:   Back to the theme walkthrough page.", 
+            "title": "Choose Default Header &amp; Footer"
+        }, 
+        {
+            "location": "/quickstart/#choose-a-homepage", 
+            "text": "Follow the next instruction to specify a homepage. Click  Go to Customizer  button:   Configure as showing below, then click  Save   Publish  button:   Back to the theme walkthrough page.", 
+            "title": "Choose a Homepage"
+        }, 
+        {
+            "location": "/quickstart/#introduce-theme-customizer", 
+            "text": "New instruction appears to introduce about Theme Customzer, check it out and click button  Confirm you got it  to finish:", 
+            "title": "Introduce Theme Customizer"
+        }, 
+        {
+            "location": "/quickstart/#introduce-theme-extra-options", 
+            "text": "New instruction appears to introduce about theme options available for specific pages, posts, post types, categories, taxonomies...   Check it out and click  Confirm you got it  button to finish this step:   Congrats! You have just completed the quick start guide.", 
+            "title": "Introduce Theme Extra Options"
+        }, 
+        {
+            "location": "/quickstart/#view-your-website", 
+            "text": "Now let's visit your website front page, before starting customization.", 
+            "title": "View Your Website"
+        }, 
+        {
+            "location": "/howto/", 
+            "text": "Theme Usage / How-to Quetions\n\n\nEdit Header \n Footer visually\n\n\nTheme provide a great feature let you edit headers \n footers packed with the theme as well as customize and add your own headers and footers.\n\n\nFrom your admin page, click \nHTML Blocks\n on the left sidebar, then click to any entry to edit it.\n\n\n\n\nNow you can edit it as you wish with \nVisual Composer\n:\n\n\n    \n\n        \n\n            \n\n            Note: If you don't see it, make sure you install and activate the plugin \nWPDance HTMLBlocks\n supplied with the theme.\n        \n\n    \n\n\n\n\n\n\nPage Builder with Visual Composer\n\n\nYou can edit a page using \nVisual Composer\n with both \nBackend Editor\n and \nFrontend Editor\n mode.\n\n\nTo edit page with Frontend Editor, login to your admin account, then view the page on front-end, click button \nEdit with Visual Composer\n:\n\n\n\n\nYou can freely edit any block contents, move blocks or add new blocks:\n\n\n\n\nIf you refer to edit page in the backend, click button \nBackend Editor\n to swith standard editor to Visual Composer editor.\n\n\n\n\nNow you can edit the page with drag \n drop features of Visual Composer:\n\n\n\n\nSpecific layout for a page, post, product, portfolio...\n\n\nTheme adds extra options for any Page, Post, Product and Portfolio items, let you customize layout of every single page:\n\n\n\n\n\n\nPage Layout\n: Let you configure layout (full width, left sidebar, right sidebar...) when viewing the single item page.\n\n\nImage Position\n: Useful for post. Let you choose position to display featured image (left, right, top).\n\n\nHide Title\n: Show or Hide page title when viewing the single item page.\n\n\nCustom Header\n: Let you assign a different header when viewing the single item page.\n\n\nCustom Footer\n: Let you assign a different footer when viewing the single item page.\n\n\n\n\nSpecific layout for a category, tag, taxonomy, product category...\n\n\nTheme adds extra options for \nCategory\n, \nTaxonomy\n, \nWooCommerce taxonomy\n, \nPortfolio taxonomy\n and other post type taxonomy, let you customize specific layout for each archive page.\n\n\n\n\n\n\nColumns\n: Number of items per row.\n\n\nLayout\n: Let you configure layout (full width, left sidebar, right sidebar...) when viewing the single item page.\n\n\nImage Position\n: Useful for post. Let you choose position to display featured image (left, right, top).\n\n\nMasonry\n: Display items with masonry layout.\n\n\nExcerpt\n: Show excerpt instead of content?\n\n\n\n\nMake different sidebar for a specific page\n\n\n\n    \n\n        \n\n            \n\n            \nNote:\n Make sure plugin WooSidebars is installed and activated.\n        \n\n    \n\n\n\n\n\nThis feature requires plugin WooSidebars, so make sure you have it installed and activated properly.\n\n\nFrom admin page, go to \nAppearance\n \n \nWidget Areas\n, click button \nAdd New\n.\n\n\n\n\n\n\nEnter the name of new sidebar, anything you want.\n\n\nSelect pages where the sidebar should appear.\n\n\nChoose the original sidebar which will be replace by this new sidebar.\n\n\nFinally, click \nPublish\n button.\n\n\n\n\nIn this example we will create a new sidebar show at the top of Shop Page, Product Categories, Product Tags. The sidebar will contain product filters widgets.\n\n\nNow, let's see the new sidebar were created. Go to \nAppearance\n \n \nWidgets\n, you will see the new sidebar exactly what you have created:\n\n\n\n\nShow horizonal product fitlers on top of shop page\n\n\nAssume you already created the new sidebar \"Product Filters\" which will show up on WooCommerce pages only. This section, we will guide to show widgets like this:\n\n\n\n\nLet go to \nAppearance\n \n \nWidgets\n. Add these widgets below to sidebar \nProduct Filters\n:\n\n\nText Widget:\n\n\n\n\nThis widget contents only show reponsive mobile screen.\n\n\n\n\nTitle\n: \nProducts Filter\n or anything you want.\n\n\nCSS Classes:\n: \nvisible-xs-block sidebar-toggle\n. The class \nvisible-xs-block\n makes the wigets only show on mobile size screen (See \nBootstrap responsive utilities\n for reference). \nsidebar-toggle\n make site knowing that when click on this element, contains inside the sidebar expandable/collapsable. \n\n\n\n\n\n    \n\n        \n\n            \n\n            \nNote:\n \nCSS Classes\n field only appear if plugin \nWidget CSS Classes\n is installed and activated.\n        \n\n    \n\n\n\n\n\nWooCommerce Product Search Widget:\n\n\n\n\n\n\nTitle\n: \nSearch\n or anything you want.\n\n\nCSS Classes:\n: \ncol-md-2 col-sm-6\n. This is Bootstrap CSS classes that allows the widget take 2 columns space on desktop screen, and 6 columns on small screen in total of 12 columns per row. In other words, The sidebar will spread 6 widgets per row on desktop screen and 2 widgets per row on small screen. See more \nBootstrap Grid System\n for reference.\n\n\n\n\nWooCommerce Layered Nav\n for product \nSize\n attribute:\n\n\n\n\nWooCommerce Layered Nav\n for product \nColor\n attribute:\n\n\n\n\nWooCommerce Layered Nav\n for product \nBrand\n attribute:\n\n\n\n\nWooCommerce Price Filter\n:\n\n\n\n\nWooCommerce Product Categories\n:\n\n\n\n\nLet see the your WooCommerce shop page:\n\n\n\n\nDon't worry if it doesn't look like the demo.\n\n\nNext step, let's make this page show full widget so that no right sidebar appears. Go to \nPages\n, edit page named \nShop\n which WooCommerce automatically created when activated the plugin:\n\n\n\n\nOn the right sidebar, \nClara Options\n, choose \nPage Layout\n is \nFull Width\n and save the page:\n\n\n\n\nConfigure colors \n image swatches for WooCommerce product attributes\n\n\nNext step, we will configure \nColor\n and \nSize\n attributes to enable color swatches and image swatches features. Go to \nAppearance\n \n \nCustomize\n to open Theme Customizer:\n\n\n\n\nClick \nLayout\n \n \nWooCommerce\n \n enter \nColor\n to \nColor Attributes\n and \nSize\n to \nImage Attributes\n boxes, then click \nSave \n Publish\n button.\n\n\n\n\nNow go to \nProducts\n \n \nAttributes\n to check your existing product attributes:\n\n\n\n\nYou will see these attributes if you import sample data \nproducts.xml\n.\n\n\n\n\nColor\n attribute has value \nBlack\n, \nBlue\n, \nGreen\n. it values will transform to color name when showing on the widget.\n\n\nSize\n attribute has value \nL\n, \nM\n, \nS\n, \nXL\n, \nXXL\n. Theme will look for presentative images in directory \nwp-content/themes/wpdanceclaratheme/images/product_attributes/pa_[attribute name]/[attribute value].png\n you can put your own images in this folder or \nChild Theme\n folder as well.\n\n\n\n\n\n\nNow check your Shop page again:\n\n\n\n\nIt shows just like the demo! \n\n\nYou can test on responsive mode tablet and mobile as well:\n\n\n\n\nOn mobile screen:\n\n\n\n\nConfigure default layouts in Customizer\n\n\nGo to \nAppearance\n \n Customize. In Customizer, click \nLayout\n, here you can configure default layouts for any page types:\n\n\n\n\n\n\nGeneral\n: Common settings for default and general pages.\n\n\nHomepage\n: For Home page (Front page).\n\n\nPost Categories\n: For Post Category archive pages.\n\n\nArchive Pages\n: For other archive pages.\n\n\nTag Page\n: For Tag archive page.\n\n\nAuthor Page\n: For Author archive page.\n\n\nSingle Post\n: For single post content page.\n\n\nWooCommerce\n: For WooCommerce pages.\n\n\nPortfolio\n: For Portfolio pages belong to Portfolio plugin.\n\n\n404 Not Found\n: For 404 Not Found page.\n\n\n\n\nLayout options for each section include:\n\n\n\n\nPage Title Position\n: Show Page Title at top position (below the navigation) or standard wordpress position.\n\n\nPosts Pagination Type\n: Show post pagination bar as numbers or next/back buttons.\n\n\nLayout\n: Full width, Left sidebar or Right sidebar.\n\n\nColumn\n: Default number of items per row.\n\n\nImage Position\n: Show featured images position above post title, right of post or left of post, or both.\n\n\nMasonry\n: Apply masonry layout effect.\n\n\nExcerpt\n: Show full content or excerpt only on posts loop.\n\n\nProducts Per Page\n: Number of products per page for WooCommerce shop.\n\n\nProducts Column\n: Number of products per row for WooCommerce shop.\n\n\nColor Attributes\n: Specify which product attributes showing as color swatches.\n\n\nImage Attributes\n: Specify which product attributes showing as image swatches.\n\n\nPortfolio Items Per Page\n: Number of portfolio items showing per page.\n\n\nStatic Page 404 Not Found\n: Specify which static page showing for 404 Not Found page.\n\n\n\n\nCustomize Typography and Colors\n\n\nIn WordPress Customizer, click on \nTypography \n Color\n:\n\n\n\n\n\n\nPresets\n: Choose Typography \n Color presets builtin by the theme.\n\n\nGeneral\n:\n\n\nColor Schema\n: Configure general color schema like colors, background colors, border colors.\n\n\nBody\n: Typography, font, size, color for default text.\n\n\nH1\n to H6: Configure typography and colors for these elements.\n\n\nLink\n: Configure typography and colors for links.\n\n\nButton\n: Configure typography and colors for buttons.\n\n\nButton\n: Configure typography and colors for buttons.\n\n\nOthers\n.\n\n\n\n\n\n\nHeader\n / \nFooter\n:\n\n\nColors\n: Configure color schema for header / footer section.\n\n\n\n\n\n\nPage Heading\n:\n\n\nContainer\n: Configure background image, color of page heading container.\n\n\nTitle\n: Configure typography and colors of page heading title.\n\n\nContent\n: Configure typography and colors of content inside page heading, like description.\n\n\n\n\n\n\nLoop Posts\n: Configure typography and color for:\n\n\nArticle Title\n\n\nArticle Content\n\n\nArticle Meta\n\n\n\n\n\n\nSingle Post\n: Configure typography and color on single post page for:\n\n\nArticle Title\n\n\nArticle Content\n\n\nArticle Meta\n\n\n\n\n\n\nWidgets\n: Configure typography and color for widgets.\n\n\nTitle\n\n\nContent\n\n\n\n\n\n\nBreadcrumbs\n: Configure typography and color for breadcrumb bar.\n\n\nParent Items\n\n\nCurrent Item\n\n\n\n\n\n\nMain Navigation\n: Configure typography and color for menus.\n\n\nRoot Level Menu\n\n\nSub Level Menu\n\n\n\n\n\n\n\n\nIncrease page loading speed with plugin WP-Super-Cache\n\n\nMake mega menu with plugin Ubermenu\n\n\nExplore theme's custom shortcodes for Visual Composer\n\n\nHelpful CSS classes\n\n\nCoding your own customization in Child Theme (Hack the theme)", 
+            "title": "How To"
+        }, 
+        {
+            "location": "/howto/#theme-usage-how-to-quetions", 
+            "text": "", 
+            "title": "Theme Usage / How-to Quetions"
+        }, 
+        {
+            "location": "/howto/#edit-header-footer-visually", 
+            "text": "Theme provide a great feature let you edit headers   footers packed with the theme as well as customize and add your own headers and footers.  From your admin page, click  HTML Blocks  on the left sidebar, then click to any entry to edit it.   Now you can edit it as you wish with  Visual Composer : \n     \n         \n             \n            Note: If you don't see it, make sure you install and activate the plugin  WPDance HTMLBlocks  supplied with the theme.", 
+            "title": "Edit Header &amp; Footer visually"
+        }, 
+        {
+            "location": "/howto/#page-builder-with-visual-composer", 
+            "text": "You can edit a page using  Visual Composer  with both  Backend Editor  and  Frontend Editor  mode.  To edit page with Frontend Editor, login to your admin account, then view the page on front-end, click button  Edit with Visual Composer :   You can freely edit any block contents, move blocks or add new blocks:   If you refer to edit page in the backend, click button  Backend Editor  to swith standard editor to Visual Composer editor.   Now you can edit the page with drag   drop features of Visual Composer:", 
+            "title": "Page Builder with Visual Composer"
+        }, 
+        {
+            "location": "/howto/#specific-layout-for-a-page-post-product-portfolio", 
+            "text": "Theme adds extra options for any Page, Post, Product and Portfolio items, let you customize layout of every single page:    Page Layout : Let you configure layout (full width, left sidebar, right sidebar...) when viewing the single item page.  Image Position : Useful for post. Let you choose position to display featured image (left, right, top).  Hide Title : Show or Hide page title when viewing the single item page.  Custom Header : Let you assign a different header when viewing the single item page.  Custom Footer : Let you assign a different footer when viewing the single item page.", 
+            "title": "Specific layout for a page, post, product, portfolio..."
+        }, 
+        {
+            "location": "/howto/#specific-layout-for-a-category-tag-taxonomy-product-category", 
+            "text": "Theme adds extra options for  Category ,  Taxonomy ,  WooCommerce taxonomy ,  Portfolio taxonomy  and other post type taxonomy, let you customize specific layout for each archive page.    Columns : Number of items per row.  Layout : Let you configure layout (full width, left sidebar, right sidebar...) when viewing the single item page.  Image Position : Useful for post. Let you choose position to display featured image (left, right, top).  Masonry : Display items with masonry layout.  Excerpt : Show excerpt instead of content?", 
+            "title": "Specific layout for a category, tag, taxonomy, product category..."
+        }, 
+        {
+            "location": "/howto/#make-different-sidebar-for-a-specific-page", 
+            "text": "Note:  Make sure plugin WooSidebars is installed and activated.\n         \n       This feature requires plugin WooSidebars, so make sure you have it installed and activated properly.  From admin page, go to  Appearance     Widget Areas , click button  Add New .    Enter the name of new sidebar, anything you want.  Select pages where the sidebar should appear.  Choose the original sidebar which will be replace by this new sidebar.  Finally, click  Publish  button.   In this example we will create a new sidebar show at the top of Shop Page, Product Categories, Product Tags. The sidebar will contain product filters widgets.  Now, let's see the new sidebar were created. Go to  Appearance     Widgets , you will see the new sidebar exactly what you have created:", 
+            "title": "Make different sidebar for a specific page"
+        }, 
+        {
+            "location": "/howto/#show-horizonal-product-fitlers-on-top-of-shop-page", 
+            "text": "Assume you already created the new sidebar \"Product Filters\" which will show up on WooCommerce pages only. This section, we will guide to show widgets like this:   Let go to  Appearance     Widgets . Add these widgets below to sidebar  Product Filters :  Text Widget:   This widget contents only show reponsive mobile screen.   Title :  Products Filter  or anything you want.  CSS Classes: :  visible-xs-block sidebar-toggle . The class  visible-xs-block  makes the wigets only show on mobile size screen (See  Bootstrap responsive utilities  for reference).  sidebar-toggle  make site knowing that when click on this element, contains inside the sidebar expandable/collapsable.    \n     \n         \n             \n             Note:   CSS Classes  field only appear if plugin  Widget CSS Classes  is installed and activated.\n         \n       WooCommerce Product Search Widget:    Title :  Search  or anything you want.  CSS Classes: :  col-md-2 col-sm-6 . This is Bootstrap CSS classes that allows the widget take 2 columns space on desktop screen, and 6 columns on small screen in total of 12 columns per row. In other words, The sidebar will spread 6 widgets per row on desktop screen and 2 widgets per row on small screen. See more  Bootstrap Grid System  for reference.   WooCommerce Layered Nav  for product  Size  attribute:   WooCommerce Layered Nav  for product  Color  attribute:   WooCommerce Layered Nav  for product  Brand  attribute:   WooCommerce Price Filter :   WooCommerce Product Categories :   Let see the your WooCommerce shop page:   Don't worry if it doesn't look like the demo.  Next step, let's make this page show full widget so that no right sidebar appears. Go to  Pages , edit page named  Shop  which WooCommerce automatically created when activated the plugin:   On the right sidebar,  Clara Options , choose  Page Layout  is  Full Width  and save the page:", 
+            "title": "Show horizonal product fitlers on top of shop page"
+        }, 
+        {
+            "location": "/howto/#configure-colors-image-swatches-for-woocommerce-product-attributes", 
+            "text": "Next step, we will configure  Color  and  Size  attributes to enable color swatches and image swatches features. Go to  Appearance     Customize  to open Theme Customizer:   Click  Layout     WooCommerce    enter  Color  to  Color Attributes  and  Size  to  Image Attributes  boxes, then click  Save   Publish  button.   Now go to  Products     Attributes  to check your existing product attributes:   You will see these attributes if you import sample data  products.xml .   Color  attribute has value  Black ,  Blue ,  Green . it values will transform to color name when showing on the widget.  Size  attribute has value  L ,  M ,  S ,  XL ,  XXL . Theme will look for presentative images in directory  wp-content/themes/wpdanceclaratheme/images/product_attributes/pa_[attribute name]/[attribute value].png  you can put your own images in this folder or  Child Theme  folder as well.    Now check your Shop page again:   It shows just like the demo!   You can test on responsive mode tablet and mobile as well:   On mobile screen:", 
+            "title": "Configure colors &amp; image swatches for WooCommerce product attributes"
+        }, 
+        {
+            "location": "/howto/#configure-default-layouts-in-customizer", 
+            "text": "Go to  Appearance    Customize. In Customizer, click  Layout , here you can configure default layouts for any page types:    General : Common settings for default and general pages.  Homepage : For Home page (Front page).  Post Categories : For Post Category archive pages.  Archive Pages : For other archive pages.  Tag Page : For Tag archive page.  Author Page : For Author archive page.  Single Post : For single post content page.  WooCommerce : For WooCommerce pages.  Portfolio : For Portfolio pages belong to Portfolio plugin.  404 Not Found : For 404 Not Found page.   Layout options for each section include:   Page Title Position : Show Page Title at top position (below the navigation) or standard wordpress position.  Posts Pagination Type : Show post pagination bar as numbers or next/back buttons.  Layout : Full width, Left sidebar or Right sidebar.  Column : Default number of items per row.  Image Position : Show featured images position above post title, right of post or left of post, or both.  Masonry : Apply masonry layout effect.  Excerpt : Show full content or excerpt only on posts loop.  Products Per Page : Number of products per page for WooCommerce shop.  Products Column : Number of products per row for WooCommerce shop.  Color Attributes : Specify which product attributes showing as color swatches.  Image Attributes : Specify which product attributes showing as image swatches.  Portfolio Items Per Page : Number of portfolio items showing per page.  Static Page 404 Not Found : Specify which static page showing for 404 Not Found page.", 
+            "title": "Configure default layouts in Customizer"
+        }, 
+        {
+            "location": "/howto/#customize-typography-and-colors", 
+            "text": "In WordPress Customizer, click on  Typography   Color :    Presets : Choose Typography   Color presets builtin by the theme.  General :  Color Schema : Configure general color schema like colors, background colors, border colors.  Body : Typography, font, size, color for default text.  H1  to H6: Configure typography and colors for these elements.  Link : Configure typography and colors for links.  Button : Configure typography and colors for buttons.  Button : Configure typography and colors for buttons.  Others .    Header  /  Footer :  Colors : Configure color schema for header / footer section.    Page Heading :  Container : Configure background image, color of page heading container.  Title : Configure typography and colors of page heading title.  Content : Configure typography and colors of content inside page heading, like description.    Loop Posts : Configure typography and color for:  Article Title  Article Content  Article Meta    Single Post : Configure typography and color on single post page for:  Article Title  Article Content  Article Meta    Widgets : Configure typography and color for widgets.  Title  Content    Breadcrumbs : Configure typography and color for breadcrumb bar.  Parent Items  Current Item    Main Navigation : Configure typography and color for menus.  Root Level Menu  Sub Level Menu", 
+            "title": "Customize Typography and Colors"
+        }, 
+        {
+            "location": "/howto/#increase-page-loading-speed-with-plugin-wp-super-cache", 
+            "text": "", 
+            "title": "Increase page loading speed with plugin WP-Super-Cache"
+        }, 
+        {
+            "location": "/howto/#make-mega-menu-with-plugin-ubermenu", 
+            "text": "", 
+            "title": "Make mega menu with plugin Ubermenu"
+        }, 
+        {
+            "location": "/howto/#explore-themes-custom-shortcodes-for-visual-composer", 
+            "text": "", 
+            "title": "Explore theme's custom shortcodes for Visual Composer"
+        }, 
+        {
+            "location": "/howto/#helpful-css-classes", 
+            "text": "", 
+            "title": "Helpful CSS classes"
+        }, 
+        {
+            "location": "/howto/#coding-your-own-customization-in-child-theme-hack-the-theme", 
+            "text": "", 
+            "title": "Coding your own customization in Child Theme (Hack the theme)"
+        }
+    ]
+}
