@@ -1,0 +1,18 @@
+site_name: "WordPress Theme: WPDance Clara - User Guide"
+pages:
+- Home: index.md
+- Installation: installation.md
+- Quick Start: quickstart.md
+- How To: howto.md
+theme: readthedocs
+
+extra_css:
+  - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+extra_javascript:
+  - https://use.fontawesome.com/540034d990.js
+
+markdown_extensions:
+  - toc:
+      permalink: True
+      separator: "-"
+  - sane_lists
