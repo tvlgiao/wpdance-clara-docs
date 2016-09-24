@@ -4,13 +4,14 @@ pages:
 - Installation: installation.md
 - Quick Start: quickstart.md
 - User Guide:
-  - Setup Pages: pages.md
+  - Setup Static Pages: pages.md
   - How To: howto.md
 - Introduction: intro.md
 theme: readthedocs
 
 extra_css:
   - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+  - css/style.css
 extra_javascript:
   - https://use.fontawesome.com/540034d990.js
 

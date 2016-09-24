@@ -1,0 +1,2 @@
+.brands-list li { line-height:1.86; }
+.brands-column { padding: 0 15px; }

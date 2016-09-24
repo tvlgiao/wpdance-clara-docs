@@ -1,0 +1,69 @@
+[vc_row][vc_column width="1/4" css=".vc_custom_1472538515917{padding-right: 20px !important;padding-left: 20px !important;}" el_class="wpdanceclaratheme-price-table-column"][vc_column_text]
+<ul>
+	<li>
+<h4 class="text-uppercase">Basic</h4>
+<ul>
+	<li>Monthly Plan</li>
+</ul>
+</li>
+	<li class="price"><span class="price">$99</span> / Month</li>
+	<li>1 Hosting</li>
+	<li>2 Email Marketing</li>
+	<li>5 databases</li>
+	<li>2 Design Pack</li>
+	<li>3 Website Layouts</li>
+	<li>5 Header Style</li>
+	<li><a class="btn btn-secondary text-uppercase" href="#">Get Started Now</a></li>
+</ul>
+[/vc_column_text][/vc_column][vc_column width="1/4" el_class="wpdanceclaratheme-price-table-column"][vc_column_text]
+<ul>
+	<li>
+<h4 class="text-uppercase">Basic</h4>
+<ul>
+	<li>Monthly Plan</li>
+</ul>
+</li>
+	<li class="price"><span class="price">$99</span> / Month</li>
+	<li>1 Hosting</li>
+	<li>2 Email Marketing</li>
+	<li>5 databases</li>
+	<li>2 Design Pack</li>
+	<li>3 Website Layouts</li>
+	<li>5 Header Style</li>
+	<li><a class="btn btn-secondary text-uppercase" href="#">Get Started Now</a></li>
+</ul>
+[/vc_column_text][/vc_column][vc_column width="1/4" el_class="wpdanceclaratheme-price-table-column active"][vc_column_text]
+<ul>
+	<li>
+<h4 class="text-uppercase">Basic</h4>
+<ul>
+	<li>Monthly Plan</li>
+</ul>
+</li>
+	<li class="price"><span class="price">$99</span> / Month</li>
+	<li>1 Hosting</li>
+	<li>2 Email Marketing</li>
+	<li>5 databases</li>
+	<li>2 Design Pack</li>
+	<li>3 Website Layouts</li>
+	<li>5 Header Style</li>
+	<li><a class="btn btn-primary text-uppercase" href="#">Get Started Now</a></li>
+</ul>
+[/vc_column_text][/vc_column][vc_column width="1/4" el_class="wpdanceclaratheme-price-table-column"][vc_column_text]
+<ul>
+	<li>
+<h4 class="text-uppercase">Basic</h4>
+<ul>
+	<li>Monthly Plan</li>
+</ul>
+</li>
+	<li class="price"><span class="price">$99</span> / Month</li>
+	<li>1 Hosting</li>
+	<li>2 Email Marketing</li>
+	<li>5 databases</li>
+	<li>2 Design Pack</li>
+	<li>3 Website Layouts</li>
+	<li>5 Header Style</li>
+	<li><a class="btn btn-secondary text-uppercase" href="#">Get Started Now</a></li>
+</ul>
+[/vc_column_text][/vc_column][/vc_row]

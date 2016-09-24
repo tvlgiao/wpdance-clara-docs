@@ -1,0 +1,11 @@
+[vc_row][vc_column width="1/3"][vc_row_inner][vc_column_inner width="1/3" offset="vc_hidden-xs"][vc_icon type="linecons" icon_linecons="vc_li vc_li-shop" color="black" background_style="rounded-outline" size="lg"][/vc_column_inner][vc_column_inner width="2/3"][vc_column_text]
+<h4 class="text-uppercase">Address</h4>
+249, Ung Van Khiem,
+Binh Thanh District,
+Ho Chi Minh City, Vietnam[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/3"][vc_row_inner][vc_column_inner width="1/3" offset="vc_hidden-xs"][vc_icon type="linecons" icon_linecons="vc_li vc_li-mail" color="black" background_style="rounded-outline" size="lg"][/vc_column_inner][vc_column_inner width="2/3"][vc_column_text]
+<h4 class="text-uppercase">Email</h4>
+support@example.com
+contact@example.com[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][vc_column width="1/3"][vc_row_inner][vc_column_inner width="1/3" offset="vc_hidden-xs"][vc_icon type="typicons" icon_typicons="typcn typcn-phone-outline" color="black" background_style="rounded-outline" size="lg"][/vc_column_inner][vc_column_inner width="2/3"][vc_column_text]
+<h4 class="text-uppercase">Phone Number</h4>
++084 0123 456 999
++084 0123 456 998[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column][vc_gmaps link="#E-8_JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZlbWJlZCUzRnBiJTNEJTIxMW0xOCUyMTFtMTIlMjExbTMlMjExZDYzMDQuODI5OTg2MTMxMjcxJTIxMmQtMTIyLjQ3NDY5NjgwMzMwOTIlMjEzZDM3LjgwMzc0NzUyMTYwNDQzJTIxMm0zJTIxMWYwJTIxMmYwJTIxM2YwJTIxM20yJTIxMWkxMDI0JTIxMmk3NjglMjE0ZjEzLjElMjEzbTMlMjExbTIlMjExczB4ODA4NTg2ZTYzMDI2MTVhMSUyNTNBMHg4NmJkMTMwMjUxNzU3YzAwJTIxMnNTdG9yZXklMkJBdmUlMjUyQyUyQlNhbiUyQkZyYW5jaXNjbyUyNTJDJTJCQ0ElMkI5NDEyOSUyMTVlMCUyMTNtMiUyMTFzZW4lMjEyc3VzJTIxNHYxNDM1ODI2NDMyMDUxJTIyJTIwd2lkdGglM0QlMjI2MDAlMjIlMjBoZWlnaHQlM0QlMjI0NTAlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlMjBzdHlsZSUzRCUyMmJvcmRlciUzQTAlMjIlMjBhbGxvd2Z1bGxzY3JlZW4lM0UlM0MlMkZpZnJhbWUlM0U="][/vc_column][/vc_row][vc_row][vc_column][vc_column_text][contact-form-7 id="2405" title="Contact form 1"][/vc_column_text][/vc_column][/vc_row]

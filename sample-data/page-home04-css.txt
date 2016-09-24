@@ -1,0 +1,31 @@
+#content > .hentry { padding: 0; }
+#content > .hentry > footer.entry-meta { margin: 0; }
+
+.home04-parallax .vc_parallax-inner { opacity: 0.5; }
+.home04-newsletter-heading { letter-spacing: 2px; }
+
+
+.home04-newsletter .btn {
+    border: 0;
+    text-transform: uppercase;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+
+.home04-newsletter .form-control {
+    border: 0;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    color: #fff;
+}
+.home04-newsletter .form-control:focus {
+    border-color: #fff;
+    box-shadow: none;
+}
+
+.home04-newsletter .input-group-addon {
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+}
