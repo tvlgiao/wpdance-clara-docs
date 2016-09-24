@@ -3,7 +3,9 @@ pages:
 - Home: index.md
 - Installation: installation.md
 - Quick Start: quickstart.md
-- How To: howto.md
+- User Guide:
+  - Setup Pages: pages.md
+  - How To: howto.md
 - Introduction: intro.md
 theme: readthedocs
 
