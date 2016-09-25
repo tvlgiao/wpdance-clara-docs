@@ -1,11 +1,32 @@
 # Configure plugins to work with the theme
 
-
 **NOTE**: Please read the [Quick Start](quickstart.md) section for how to install and activate plugins.
+
+## WPDanceClaraTheme Toolkit
+
+<div class="lead">This is a required plugin to enable library, custom shortcodes and other advanced features of the theme.</div>
+
+Plugin enables shortcodes:
+
+- `wpdanceclaratheme_site_header`: This shortcode will display site logo, title and tagline. It is used in Header / Footer editor.
+- `wpdanceclaratheme_user_links`: This shortcode displays user link Login, Register or Logout depends on user logged in or not.
+- `wpdanceclaratheme_dropdowncart`: This shortcode will display woocommerce dropdown cart.
+- `wpdanceclaratheme_nav_menu`: This shortcode will display your chosen navigation menu.
+- `wpdanceclaratheme_owlcarousel`: This shortcode will display carousel slider for WooCommerce products.
+- `wpdanceclaratheme_countdown`: This shortcode will display time countdown using [jQuery countdown](http://hilios.github.io/jQuery.countdown/).
+- `wpdanceclaratheme_tagtray`: This shortcode will display Instagram photo using web services from [TagTray](http://tagtray.com/).
+- `ubermenu`: This shortcode will display mega menu if plugin UberMenu is activated, otherwise it will fallback to display WordPress standard menu.
+
+These shortcodes are also supported for Visual Composer elements:
+
+![Theme Custom Visual Composer Shortcodes](img/theme-vc-shortcodes.png)
+
+There is no configuration needed for this plugin.
+
 
 ## Advanced Excerpt
 
-> This plugin lets control post excerpts, limit number of words showing on posts loop.
+<div class="lead">This plugin lets control post excerpts, limit number of words showing on posts loop.</div>
 
 Although the theme should work without any problem after activate the plugin with default configuration, we still recommend to disable excerpt filter for the_content.
 
@@ -15,7 +36,7 @@ From admin page, go to **Settings** > **Excerpt**, we recommend leave all option
 
 ## Better Font Awesome
 
-> This plugin adds a button to content editor let you insert FontAwesome icons more quickly.
+<div class="lead">This plugin adds a button to content editor let you insert FontAwesome icons more quickly.</div>
 
 ![Better Font Awesome](img/better-font-awesome.png)
 
@@ -23,7 +44,7 @@ The theme should work with default configuration after activate the plugin. No e
 
 ## Breadcrumb NavXT
 
-> This plugin adds a breadcrumb navigtion showing the visitor's path to their current location.
+<div class="lead">This plugin adds a breadcrumb navigtion showing the visitor's path to their current location.</div>
 
 ![Breadcumb NavXT](img/breadcrumb-navxt.png)
 
@@ -31,7 +52,7 @@ The theme should work with default configuration after activate the plugin. No e
 
 ## CM Registration
 
-> This plugin adds AJAX-based login and registration forms with captcha, email verification. Allows to show lightbox popup for Login and Registration form when click on the links showing on site header.
+<div class="lead">This plugin adds AJAX-based login and registration forms with captcha, email verification. Allows to show lightbox popup for Login and Registration form when click on the links showing on site header.</div>
 
 ![CM Registration popup](img/cm-registration.png)
 
@@ -39,7 +60,7 @@ The theme should work with default configuration after activate the plugin. No e
 
 ## CMB2
 
-> This plugin is required for the theme to show custom options for post, page and other post types.
+<div class="lead">This plugin is required for the theme to show custom options for post, page and other post types.</div>
 
 ![CLARA Options on Post](img/clara-options-on-post.png)
 
@@ -49,7 +70,7 @@ There is no configuration needed.
 
 ## CMB2 Taxonomy
 
-> This plugin is required for the theme to show custom options for category, tag, taxonomy, term.
+<div class="lead">This plugin is required for the theme to show custom options for category, tag, taxonomy, term.</div>
 
 ![CLARA Options on Post](img/clara-options-on-tax.png)
 
@@ -58,7 +79,7 @@ There is no configuration needed.
 
 ## Comments Widget Plus
 
-> This plugin enables custom recent comments widget with extra features.
+<div class="lead">This plugin enables custom recent comments widget with extra features.</div>
 
 ![Recent Comments Plus](img/recent-comments-plus.png)
 
@@ -72,7 +93,7 @@ Configure like picture below:
 
 ## Contact Form 7
 
-> This plugin let you create contact form quickly and easily. The theme uses this plugin for showing contact form on Contact Us page.
+<div class="lead">This plugin let you create contact form quickly and easily. The theme uses this plugin for showing contact form on Contact Us page.</div>
 
 ![Contact form](img/contact-form.png)
 
@@ -101,7 +122,7 @@ Edit page [About Us](pages.md#contact-us) you will see how the shortcode was ins
 
 ## jQuery Colorbox
 
-> This plugin add javascript library jQuery Colorbox allow to show overlay images on current page. Similiar lightbox or thickbok javascript effect. Theme uses this plugin to show overlay Portfolio images.
+<div class="lead">This plugin add javascript library jQuery Colorbox allow to show overlay images on current page. Similiar lightbox or thickbok javascript effect. Theme uses this plugin to show overlay Portfolio images.</div>
 
 ![jQuery Colorbox for Portfolio](img/jquery-colorbox.jpg)
 
@@ -111,7 +132,7 @@ After installed and activated the plugin, go to **Settings** > **jQuery Colorbox
 
 ## Recent Posts Widget With Thumbnails
 
-> This plugin adds a widget to show posts with thumbnails and various options. Theme uses this plugin to show recent posts with thumbnails on blog post layouts.
+<div class="lead">This plugin adds a widget to show posts with thumbnails and various options. Theme uses this plugin to show recent posts with thumbnails on blog post layouts.</div>
 
 ![Recent Posts with Thumbnals plugin](img/recent-posts-with-thumbnails.jpg)
 
@@ -126,7 +147,7 @@ Configure the widget's parameters like below picture:
 
 ## Slider Revolution
 
-> This plugin let you create unlimited image slideshows. It has powerful drag & drop slideshow builder, let you make slideshow without coding knowleadge. Theme us this plugin to show slideshow on various pages, especially on homepages.
+<div class="lead">This plugin let you create unlimited image slideshows. It has powerful drag & drop slideshow builder, let you make slideshow without coding knowleadge. Theme us this plugin to show slideshow on various pages, especially on homepages.</div>
 
 ![Slider Revolution on Home 01](img/revslider.jpg)
 
@@ -137,7 +158,7 @@ Theme included sample slideshows in zip file, just only import to zip file to qu
 
 ## UberMenu 3
 
-> This plugin let you create beautiful, flexible and reponsive mega menus. Theme includes beautiful style for this mega menu plugin, but NOT include the plugin itself.
+<div class="lead">This plugin let you create beautiful, flexible and reponsive mega menus. Theme includes beautiful style for this mega menu plugin, but NOT include the plugin itself.</div>
 
 <div class="alert alert-warning">
 	<ul class="fa-ul">
@@ -195,7 +216,7 @@ For detailed user guide, please read from the offical website: [UberMenu Documen
 
 ## Widget CSS Classes
 
-> This plugin allows to add custom CSS classes to widgets. Theme uses this plugin to make custom style for different widgets, show widgets in columns and made responsive auto show/hide widgets.
+<div class="lead">This plugin allows to add custom CSS classes to widgets. Theme uses this plugin to make custom style for different widgets, show widgets in columns and made responsive auto show/hide widgets.</div>
 
 ![CSS Classes Widget](img/widget-css-classes.png)
 
@@ -204,7 +225,7 @@ There is no configuration needed.
 
 ## WooCommerce
 
-> This plugin lets you selling products online, open a full functional ecommerce website. The theme fully supports WooCommerce plugin.
+<div class="lead">This plugin lets you selling products online, open a full functional ecommerce website. The theme fully supports WooCommerce plugin.</div>
 
 ![WooCommerce](img/woocommerce.png)
 
@@ -215,7 +236,7 @@ There is no configuration needed.
 
 ## WooCommerce Dropdown Cart
 
-> This plugin provides a widget for WooCommerce to display the cart at top of page. Theme uses this plugin to show dropdown cart on the site header.
+<div class="lead">This plugin provides a widget for WooCommerce to display the cart at top of page. Theme uses this plugin to show dropdown cart on the site header.</div>
 
 ![WooCommerce Dropdown Cart](img/woocommerce-dropdown-cart.png)
 
@@ -229,7 +250,7 @@ There is no configuration needed.
 
 ## WooCommerce Social Media Share Buttons
 
-> The Woocommerce Social Media Share Buttons plugin allows visitors to your woocommerce shop to easily share your products on popular social media platforms. Theme use this plugin to show social sharing icons on WooCommerce product detail page and WPDance Portfolio detail page.
+<div class="lead">The Woocommerce Social Media Share Buttons plugin allows visitors to your woocommerce shop to easily share your products on popular social media platforms. Theme use this plugin to show social sharing icons on WooCommerce product detail page and WPDance Portfolio detail page.</div>
 
 Social icons show on product detail page:
 
@@ -266,7 +287,7 @@ Click **Save Settings** to finish.
 
 ## WooSidebars
 
-> This plugin allow to replace widget areas for specific pages, archives and other sections of WordPress. Theme uses this plugin to show different sidebars, widgets on different pages, example the sidebar on shop page will be different on blog page.
+<div class="lead">This plugin allow to replace widget areas for specific pages, archives and other sections of WordPress. Theme uses this plugin to show different sidebars, widgets on different pages, example the sidebar on shop page will be different on blog page.</div>
 
 Showing different sidebar on Shop page:
 
@@ -282,7 +303,7 @@ There is no additional configuration needed for this plugin.
 
 ## WPBakery Visual Composer
 
-> Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. Theme depends on this plugin to build Headers, Footers, and other beautiful static pages.
+<div class="lead">Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. Theme depends on this plugin to build Headers, Footers, and other beautiful static pages.</div>
 
 ![Visual Composer Frontend Editor](img/visual-composer-frontend-editor.jpg)
 
@@ -306,7 +327,7 @@ Detailed user guide can be found at the offical website: [Visual Composer User G
 
 ## WPDance HTMLBlock
 
-> This plugin is required to enable Headers & Footers drag & drop editor.
+<div class="lead">This plugin is required to enable Headers & Footers drag & drop editor.</div>
 
 Theme automatically add custom Headers & Footers to this plugin when the theme is activated. No additional configuration needed.
 
@@ -326,7 +347,7 @@ For more detail how to use this plugin for managing Headers & Footers, please re
 
 ## WPDance Portfolio
 
-> This plugin adds portfolio post type, portfolio shortcode and Visual Composer shortcode. Lets you create a simple and beautiful portfolio page.
+<div class="lead">This plugin adds portfolio post type, portfolio shortcode and Visual Composer shortcode. Lets you create a simple and beautiful portfolio page.</div>
 
 After installed and activated, a new menu **Portfolios** will appear on the admin menu:
 
@@ -337,7 +358,7 @@ You can use **WordPress Importer** plugin to import sample portfolio items like 
 
 ## WPDance Testimonial
 
-> This plugin adds Testimonial post type, Visual composer testimonial shortcode.
+<div class="lead">This plugin adds Testimonial post type, Visual composer testimonial shortcode.</div>
 
 After installed and activated, a new menu **Testimonials** will appear on the admin menu:
 
@@ -346,3 +367,26 @@ After installed and activated, a new menu **Testimonials** will appear on the ad
 You can use **WordPress Importer** plugin to import sample testimonial items like our demo site. Please read instruction [how to import sample data](quickstart.md#import-sample-data) in Quick Start section.
 
 For showing testimonials on pages, please read instruction [How to show testimonials on a page](howto.md#show-testimonials-on-a-page) in How-To section.
+
+
+## YITH WooCommerce Quick View
+
+<div class="lead">This plugin enables product quick-view on the current page for WooCommerce.</div>
+
+![Quick View](img/quickview.jpg)
+
+After installed and activated the plugin, leave all plugin settings as default. There is no need additional configuration for this plugin.
+
+![Quick View Configuration](img/quickview-config.png)
+
+
+## YITH WooCommerce Wishlist
+
+<div class="lead">This plugin enable wishlist features for WooCommerce. Allows you to add Wishlist functionality to your e-commerce store.</div>
+
+![Wishlist](img/wishlist.jpg)
+
+After installed and activated the plugin, leave all plugin settings as default. There is no need additional configuration for this plugin.
+
+![Wishlist Configuration](img/wishlist-config.png)
+

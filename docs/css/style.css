@@ -2,6 +2,10 @@ p {
 	margin-bottom: 1em
 }
 
+h2 {
+	margin-top: 3em;
+}
+
 
 .rst-content .section ul.fa-ul {
 	list-style: none;
