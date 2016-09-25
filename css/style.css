@@ -1,0 +1,21 @@
+p { 
+	margin-bottom: 1em
+}
+
+h2 {
+	margin-top: 3em;
+}
+
+
+.rst-content .section ul.fa-ul {
+	list-style: none;
+}
+
+.rst-content .section ul.fa-ul li {
+	list-style: none;
+	margin-left: 0;
+}
+
+.rst-content .section .alert ul {
+	margin-bottom: 0;
+}

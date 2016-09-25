@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <title>Configure Plugins - WordPress Theme: WPDance Clara - User Guide</title>
+  
+
+  <link rel="shortcut icon" href="../img/favicon.ico">
+
+  
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="../css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="../css/highlight.css">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../css/style.css" rel="stylesheet">
+
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Configure Plugins";
+    var mkdocs_page_input_path = "plugins.md";
+    var mkdocs_page_url = "/plugins/";
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js"></script>
+  <script src="../js/modernizr-2.8.3.min.js"></script>
+  <script type="text/javascript" src="../js/highlight.pack.js"></script>
+  <script src="../js/theme.js"></script> 
+  <script src="https://use.fontawesome.com/540034d990.js"></script>
+
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> WordPress Theme: WPDance Clara - User Guide</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+        <ul class="current">
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="..">Home</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../installation/">Installation</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../quickstart/">Quick Start</a>
+        
+    </li>
+<li>
+          
+            <li>
+    <ul class="subnav">
+    <li><span>User Guide</span></li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../pages/">Setup Static Pages</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 current">
+        <a class="current" href="./">Configure Plugins</a>
+        
+            <ul>
+            
+                <li class="toctree-l3"><a href="#configure-plugins-to-work-with-the-theme">Configure plugins to work with the theme</a></li>
+                
+                    <li><a class="toctree-l4" href="#wpdanceclaratheme-toolkit">WPDanceClaraTheme Toolkit</a></li>
+                
+                    <li><a class="toctree-l4" href="#advanced-excerpt">Advanced Excerpt</a></li>
+                
+                    <li><a class="toctree-l4" href="#better-font-awesome">Better Font Awesome</a></li>
+                
+                    <li><a class="toctree-l4" href="#breadcrumb-navxt">Breadcrumb NavXT</a></li>
+                
+                    <li><a class="toctree-l4" href="#cm-registration">CM Registration</a></li>
+                
+                    <li><a class="toctree-l4" href="#cmb2">CMB2</a></li>
+                
+                    <li><a class="toctree-l4" href="#cmb2-taxonomy">CMB2 Taxonomy</a></li>
+                
+                    <li><a class="toctree-l4" href="#comments-widget-plus">Comments Widget Plus</a></li>
+                
+                    <li><a class="toctree-l4" href="#contact-form-7">Contact Form 7</a></li>
+                
+                    <li><a class="toctree-l4" href="#jquery-colorbox">jQuery Colorbox</a></li>
+                
+                    <li><a class="toctree-l4" href="#recent-posts-widget-with-thumbnails">Recent Posts Widget With Thumbnails</a></li>
+                
+                    <li><a class="toctree-l4" href="#slider-revolution">Slider Revolution</a></li>
+                
+                    <li><a class="toctree-l4" href="#ubermenu-3">UberMenu 3</a></li>
+                
+                    <li><a class="toctree-l4" href="#widget-css-classes">Widget CSS Classes</a></li>
+                
+                    <li><a class="toctree-l4" href="#woocommerce">WooCommerce</a></li>
+                
+                    <li><a class="toctree-l4" href="#woocommerce-dropdown-cart">WooCommerce Dropdown Cart</a></li>
+                
+                    <li><a class="toctree-l4" href="#woocommerce-social-media-share-buttons">WooCommerce Social Media Share Buttons</a></li>
+                
+                    <li><a class="toctree-l4" href="#woosidebars">WooSidebars</a></li>
+                
+                    <li><a class="toctree-l4" href="#wpbakery-visual-composer">WPBakery Visual Composer</a></li>
+                
+                    <li><a class="toctree-l4" href="#wpdance-htmlblock">WPDance HTMLBlock</a></li>
+                
+                    <li><a class="toctree-l4" href="#wpdance-portfolio">WPDance Portfolio</a></li>
+                
+                    <li><a class="toctree-l4" href="#wpdance-testimonial">WPDance Testimonial</a></li>
+                
+                    <li><a class="toctree-l4" href="#yith-woocommerce-quick-view">YITH WooCommerce Quick View</a></li>
+                
+                    <li><a class="toctree-l4" href="#yith-woocommerce-wishlist">YITH WooCommerce Wishlist</a></li>
+                
+            
+            </ul>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../htmlblocks/">Headers & Footers</a>
+        
+    </li>
+
+        
+            
+    <li class="toctree-l1 ">
+        <a class="" href="../howto/">How To</a>
+        
+    </li>
+
+        
+    </ul>
+<li>
+          
+            <li>
+    <li class="toctree-l1 ">
+        <a class="" href="../intro/">Introduction</a>
+        
+    </li>
+<li>
+          
+        </ul>
+      </div>
+      &nbsp;
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">WordPress Theme: WPDance Clara - User Guide</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>User Guide &raquo;</li>
+        
+      
+    
+    <li>Configure Plugins</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="configure-plugins-to-work-with-the-theme">Configure plugins to work with the theme<a class="headerlink" href="#configure-plugins-to-work-with-the-theme" title="Permanent link">&para;</a></h1>
+<p><strong>NOTE</strong>: Please read the <a href="../quickstart/">Quick Start</a> section for how to install and activate plugins.</p>
+<h2 id="wpdanceclaratheme-toolkit">WPDanceClaraTheme Toolkit<a class="headerlink" href="#wpdanceclaratheme-toolkit" title="Permanent link">&para;</a></h2>
+<div class="lead">This is a required plugin to enable library, custom shortcodes and other advanced features of the theme.</div>
+
+<p>Plugin enables shortcodes:</p>
+<ul>
+<li><code>wpdanceclaratheme_site_header</code>: This shortcode will display site logo, title and tagline. It is used in Header / Footer editor.</li>
+<li><code>wpdanceclaratheme_user_links</code>: This shortcode displays user link Login, Register or Logout depends on user logged in or not.</li>
+<li><code>wpdanceclaratheme_dropdowncart</code>: This shortcode will display woocommerce dropdown cart.</li>
+<li><code>wpdanceclaratheme_nav_menu</code>: This shortcode will display your chosen navigation menu.</li>
+<li><code>wpdanceclaratheme_owlcarousel</code>: This shortcode will display carousel slider for WooCommerce products.</li>
+<li><code>wpdanceclaratheme_countdown</code>: This shortcode will display time countdown using <a href="http://hilios.github.io/jQuery.countdown/">jQuery countdown</a>.</li>
+<li><code>wpdanceclaratheme_tagtray</code>: This shortcode will display Instagram photo using web services from <a href="http://tagtray.com/">TagTray</a>.</li>
+<li><code>ubermenu</code>: This shortcode will display mega menu if plugin UberMenu is activated, otherwise it will fallback to display WordPress standard menu.</li>
+</ul>
+<p>These shortcodes are also supported for Visual Composer elements:</p>
+<p><img alt="Theme Custom Visual Composer Shortcodes" src="../img/theme-vc-shortcodes.png" /></p>
+<p>There is no configuration needed for this plugin.</p>
+<h2 id="advanced-excerpt">Advanced Excerpt<a class="headerlink" href="#advanced-excerpt" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin lets control post excerpts, limit number of words showing on posts loop.</div>
+
+<p>Although the theme should work without any problem after activate the plugin with default configuration, we still recommend to disable excerpt filter for the_content.</p>
+<p>From admin page, go to <strong>Settings</strong> &gt; <strong>Excerpt</strong>, we recommend leave all options as default, except option <strong>Filter</strong> should untick <code>the_content()</code>:</p>
+<p><img alt="Don't tick the_content" src="../img/advanced-excerpt-untick-the-content.png" /></p>
+<h2 id="better-font-awesome">Better Font Awesome<a class="headerlink" href="#better-font-awesome" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin adds a button to content editor let you insert FontAwesome icons more quickly.</div>
+
+<p><img alt="Better Font Awesome" src="../img/better-font-awesome.png" /></p>
+<p>The theme should work with default configuration after activate the plugin. No extra configuration need.</p>
+<h2 id="breadcrumb-navxt">Breadcrumb NavXT<a class="headerlink" href="#breadcrumb-navxt" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin adds a breadcrumb navigtion showing the visitor's path to their current location.</div>
+
+<p><img alt="Breadcumb NavXT" src="../img/breadcrumb-navxt.png" /></p>
+<p>The theme should work with default configuration after activate the plugin. No extra configuration need.</p>
+<h2 id="cm-registration">CM Registration<a class="headerlink" href="#cm-registration" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin adds AJAX-based login and registration forms with captcha, email verification. Allows to show lightbox popup for Login and Registration form when click on the links showing on site header.</div>
+
+<p><img alt="CM Registration popup" src="../img/cm-registration.png" /></p>
+<p>The theme should work with default configuration after activate the plugin. No extra configuration need.</p>
+<h2 id="cmb2">CMB2<a class="headerlink" href="#cmb2" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin is required for the theme to show custom options for post, page and other post types.</div>
+
+<p><img alt="CLARA Options on Post" src="../img/clara-options-on-post.png" /></p>
+<p>There is no configuration needed.</p>
+<h2 id="cmb2-taxonomy">CMB2 Taxonomy<a class="headerlink" href="#cmb2-taxonomy" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin is required for the theme to show custom options for category, tag, taxonomy, term.</div>
+
+<p><img alt="CLARA Options on Post" src="../img/clara-options-on-tax.png" /></p>
+<p>There is no configuration needed.</p>
+<h2 id="comments-widget-plus">Comments Widget Plus<a class="headerlink" href="#comments-widget-plus" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin enables custom recent comments widget with extra features.</div>
+
+<p><img alt="Recent Comments Plus" src="../img/recent-comments-plus.png" /></p>
+<p>To show comments like your demo site, go to admin page, <strong>Appearance</strong> &gt; <strong>Widgets</strong>, drag <strong>Recent Comments Plus</strong> widget to <strong>Main Sidebar</strong>.</p>
+<p><img alt="Add recent comment plus widget" src="../img/add-recent-comments-plus.png" /></p>
+<p>Configure like picture below:</p>
+<p><img alt="Configure recent comment plus widget" src="../img/recent-comments-plus-config.png" /></p>
+<h2 id="contact-form-7">Contact Form 7<a class="headerlink" href="#contact-form-7" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin let you create contact form quickly and easily. The theme uses this plugin for showing contact form on Contact Us page.</div>
+
+<p><img alt="Contact form" src="../img/contact-form.png" /></p>
+<p>To show contact form like our demo, go to admin page, click <strong>Contact</strong> &gt; <strong>Add New</strong>.</p>
+<p>Copy content of file <a href="https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/contact-form.txt">sample-data/contact-form.txt</a> into the <strong>Form</strong> field:</p>
+<p><img alt="Input contact form content" src="../img/input-contact-form.png" /></p>
+<p>Configure your email in tab <strong>Mail</strong>:</p>
+<p><img alt="Configure your email" src="../img/contact-form-tab-mail.png" /></p>
+<p>Configure messages if you want or leave it as default:</p>
+<p><img alt="Configure messages" src="../img/contact-form-tab-msg.png" /></p>
+<p>Click <strong>Save</strong> button to create the form. Now you can insert this shortcode to show up the contact form on any page or post you want:</p>
+<p><img alt="Contact form shortcode" src="../img/contact-form-shortcode.png" /></p>
+<p>Edit page <a href="../pages/#contact-us">About Us</a> you will see how the shortcode was inserted:</p>
+<p><img alt="Contact form shortcode inserted" src="../img/contact-form-shortcode-on-page.png" /></p>
+<h2 id="jquery-colorbox">jQuery Colorbox<a class="headerlink" href="#jquery-colorbox" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin add javascript library jQuery Colorbox allow to show overlay images on current page. Similiar lightbox or thickbok javascript effect. Theme uses this plugin to show overlay Portfolio images.</div>
+
+<p><img alt="jQuery Colorbox for Portfolio" src="../img/jquery-colorbox.jpg" /></p>
+<p>After installed and activated the plugin, go to <strong>Settings</strong> &gt; <strong>jQuery Colorbox</strong>, tick <strong>Disable warning</strong> checkbox, other options should leave as default:</p>
+<p><img alt="jQuery Colorbox disable warning" src="../img/jquery-colorbox-disable-warning.png" /></p>
+<h2 id="recent-posts-widget-with-thumbnails">Recent Posts Widget With Thumbnails<a class="headerlink" href="#recent-posts-widget-with-thumbnails" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin adds a widget to show posts with thumbnails and various options. Theme uses this plugin to show recent posts with thumbnails on blog post layouts.</div>
+
+<p><img alt="Recent Posts with Thumbnals plugin" src="../img/recent-posts-with-thumbnails.jpg" /></p>
+<p>To show the widget like our demo site, go to admin page &gt; <strong>Appearance</strong> &gt; <strong>Widgets</strong>, drag Recent Posts With Thumbnails widget into the Main Sidebar:</p>
+<p><img alt="Add Recent Posts with Thumbnails to sidebar" src="../img/add-rpwt-to-main-sidebar.jpg" /></p>
+<p>Configure the widget's parameters like below picture:</p>
+<p><img alt="Configure Recent Posts With Thumbnail widget" src="../img/config-rpwt.png" /></p>
+<h2 id="slider-revolution">Slider Revolution<a class="headerlink" href="#slider-revolution" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin let you create unlimited image slideshows. It has powerful drag & drop slideshow builder, let you make slideshow without coding knowleadge. Theme us this plugin to show slideshow on various pages, especially on homepages.</div>
+
+<p><img alt="Slider Revolution on Home 01" src="../img/revslider.jpg" /></p>
+<p>Theme included sample slideshows in zip file, just only import to zip file to quickly create the slideshows like our demo site.</p>
+<ul>
+<li>For importing slideshow instruction, please read <a href="../quickstart/#import-sample-sliders">Import Sample Sliders</a> in Quick Start guide.</li>
+<li>For detailed how to make slideshow manually, please read the complete guide here:  <a href="https://www.themepunch.com/revslider-doc/slider-revolution-documentation/">Slider Revolution WordPress 5.x Documentation</a></li>
+</ul>
+<h2 id="ubermenu-3">UberMenu 3<a class="headerlink" href="#ubermenu-3" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin let you create beautiful, flexible and reponsive mega menus. Theme includes beautiful style for this mega menu plugin, but NOT include the plugin itself.</div>
+
+<div class="alert alert-warning">
+    <ul class="fa-ul">
+        <li>
+            <i class="fa fa-info-circle fa-lg fa-li" aria-hidden="true"></i>
+            <strong>IMPORTANT NOTE:</strong> Theme does NOT include the plugin itself. If you want to have a beautiful mega menu like our demo site, you MUST purchase the plugin at <a href="https://codecanyon.net/item/ubermenu-wordpress-mega-menu-plugin/154703?ref=tvlgiao">codecanyon.net</a> its price is <strong>$19</strong> licensing for a single website.
+        </li>
+    </ul>
+</div>
+
+<p>Theme automatically adds two configurations for UberMenu once the theme is activated:</p>
+<ul>
+<li><code>wpdanceclaratheme-vertical-menu</code></li>
+<li><code>wpdanceclaratheme-horizontal-menu</code></li>
+</ul>
+<p><img alt="UberMenu configurations by the theme" src="../img/ubermenu-config-included.png" /></p>
+<h3 id="create-ubermenu-configuration-manually">Create UberMenu configuration manually<a class="headerlink" href="#create-ubermenu-configuration-manually" title="Permanent link">&para;</a></h3>
+<p>You can add the configuration manually by go to admin page &gt; <strong>Appearance</strong> &gt; <strong>UberMenu</strong>, click <strong>+ Add UberMenu Configuration</strong> button:</p>
+<p><img alt="Add UberMenu Configuration" src="../img/add-ubermenu-config.png" /></p>
+<p>Enter the configuration name, whatever name you want:</p>
+<p><img alt="Enter configuration name" src="../img/enter-ubermenu-config-name.png" /></p>
+<p>After the configuration created, click <strong>Import/Export</strong> tab &gt; click <strong>Import Settings</strong> and copy content of file <a href="https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/wpdanceclaratheme-horizontal-menu.txt">sample-data/wpdanceclaratheme-horizontal-menu.txt</a> into input box, then click button <strong>Confirm and Import Settings Now</strong>.</p>
+<p><img alt="Import ubermenu settings" src="../img/import-ubermenu-settings.png" /></p>
+<p>For vertical mega menu, use file <a href="https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/wpdanceclaratheme-vertical-menu.txt">sample-data/wpdanceclaratheme-vertical-menu.txt</a>.</p>
+<h3 id="show-up-mega-menu-on-header">Show up mega menu on header<a class="headerlink" href="#show-up-mega-menu-on-header" title="Permanent link">&para;</a></h3>
+<p>In UberMenu Control Panel and your configuration tab, click <strong>Integration</strong> tab. Scroll down to section <strong>Manual Integration</strong>, Select your menu in drop down box <strong>Integrate Specific Menu</strong> copy the shortcode syntax inside <strong>SHORTCODE</strong> box:</p>
+<p><img alt="Shortcode Ubermenu" src="../img/shortcode-ubermenu.png" /></p>
+<p>Edit any header in admin page &gt; <strong>HTML Blocks</strong> &gt; edit a header you will see the shortcode inserted in this post:</p>
+<p><img alt="Insert Shortcode Ubermenu" src="../img/insert-ubermenu-shortcode.png" /></p>
+<p>Example:</p>
+<pre><code>[ubermenu config_id=&quot;wpdanceclaratheme-horizontal-menu&quot; menu=&quot;215&quot;]
+</code></pre>
+
+<h3 id="ubermenu-detailed-user-guide">UberMenu detailed user guide<a class="headerlink" href="#ubermenu-detailed-user-guide" title="Permanent link">&para;</a></h3>
+<p>For detailed user guide, please read from the offical website: <a href="http://sevenspark.com/docs/ubermenu-3/quick-start">UberMenu Documentation</a></p>
+<h2 id="widget-css-classes">Widget CSS Classes<a class="headerlink" href="#widget-css-classes" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin allows to add custom CSS classes to widgets. Theme uses this plugin to make custom style for different widgets, show widgets in columns and made responsive auto show/hide widgets.</div>
+
+<p><img alt="CSS Classes Widget" src="../img/widget-css-classes.png" /></p>
+<p>There is no configuration needed.</p>
+<h2 id="woocommerce">WooCommerce<a class="headerlink" href="#woocommerce" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin lets you selling products online, open a full functional ecommerce website. The theme fully supports WooCommerce plugin.</div>
+
+<p><img alt="WooCommerce" src="../img/woocommerce.png" /></p>
+<p>For detailed user guide please read <a href="https://docs.woocommerce.com/documentation/plugins/woocommerce/">WooCommerce Documentation</a>.</p>
+<p>There is no configuration needed.</p>
+<h2 id="woocommerce-dropdown-cart">WooCommerce Dropdown Cart<a class="headerlink" href="#woocommerce-dropdown-cart" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin provides a widget for WooCommerce to display the cart at top of page. Theme uses this plugin to show dropdown cart on the site header.</div>
+
+<p><img alt="WooCommerce Dropdown Cart" src="../img/woocommerce-dropdown-cart.png" /></p>
+<p>Visual Composer ShortCode for displaying dropdown cart:</p>
+<p><img alt="WooCommerce ShortCode DropDown Cart" src="../img/dropdown-cart-shortcode.png" /></p>
+<p><img alt="WooCommerce ShortCode DropDown Cart Settings" src="../img/dropdown-cart-shortcode-config.png" /></p>
+<p>There is no configuration needed.</p>
+<h2 id="woocommerce-social-media-share-buttons">WooCommerce Social Media Share Buttons<a class="headerlink" href="#woocommerce-social-media-share-buttons" title="Permanent link">&para;</a></h2>
+<div class="lead">The Woocommerce Social Media Share Buttons plugin allows visitors to your woocommerce shop to easily share your products on popular social media platforms. Theme use this plugin to show social sharing icons on WooCommerce product detail page and WPDance Portfolio detail page.</div>
+
+<p>Social icons show on product detail page:</p>
+<p><img alt="WooCommerce Social Media Share Buttons on Product detail page" src="../img/smsb-product.png" /></p>
+<p>Social icons show on portfolio detail page:</p>
+<p><img alt="WooCommerce Social Media Share Buttons on Portfolio" src="../img/smsb-portfolio.png" /></p>
+<h3 id="configure-woocommerce-social-media-sharing-buttons">Configure WooCommerce Social Media Sharing Buttons<a class="headerlink" href="#configure-woocommerce-social-media-sharing-buttons" title="Permanent link">&para;</a></h3>
+<p>After installed and activated the plugin, go to admin page &gt; click <strong>Sharing Buttons</strong> on the left column:</p>
+<p><img alt="SMSB Menu" src="../img/smsb-menu.png" /></p>
+<p><img alt="SMSB Settings" src="../img/smsb-settings.png" /></p>
+<p>Tick any icons you want to show up. In text boxes <strong>Custom Button Image</strong> enter URL of the blank image:</p>
+<pre><code class="html">//[YOUR-SITE-URL]/wp-content/themes/wpdanceclaratheme/images/blank.png
+</code></pre>
+
+<p>For example, if your site URL is <code>http://www.example.com/</code> enter:</p>
+<pre><code class="html">//www.example.com/wp-content/themes/wpdanceclaratheme/images/blank.png
+</code></pre>
+
+<p>Note: don't enter the protocol <code>http:</code> for SSL secured website compatibility.</p>
+<p>Click <strong>Save Settings</strong> to finish.</p>
+<h2 id="woosidebars">WooSidebars<a class="headerlink" href="#woosidebars" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin allow to replace widget areas for specific pages, archives and other sections of WordPress. Theme uses this plugin to show different sidebars, widgets on different pages, example the sidebar on shop page will be different on blog page.</div>
+
+<p>Showing different sidebar on Shop page:</p>
+<p><img alt="WooSidebars on Shop page" src="../img/woosidebars.png" /></p>
+<p>For more usage instruction, please the tutorials in <a href="../howto/">How-To</a> section:</p>
+<ul>
+<li><a href="../howto/#make-different-sidebar-for-a-specific-page">Make different sidebar for a specific page</a></li>
+<li><a href="../howto/#show-horizonal-product-filters-on-top-of-shop-page">Show horizonl product filters on shop page</a></li>
+</ul>
+<p>There is no additional configuration needed for this plugin.</p>
+<h2 id="wpbakery-visual-composer">WPBakery Visual Composer<a class="headerlink" href="#wpbakery-visual-composer" title="Permanent link">&para;</a></h2>
+<div class="lead">Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. Theme depends on this plugin to build Headers, Footers, and other beautiful static pages.</div>
+
+<p><img alt="Visual Composer Frontend Editor" src="../img/visual-composer-frontend-editor.jpg" /></p>
+<p>When theme is activated, it automatically adds more Visual Composer's Grid Items for displaying custom styles blog and testimonials:</p>
+<p><img alt="Grid Builder" src="../img/grid-builder.jpg" /></p>
+<div class="alert alert-info">
+    <ul class="fa-ul">
+        <li>
+            <i class="fa fa-info-circle fa-lg fa-li" aria-hidden="true"></i>
+            If you accidentially delete and for want to restore it, just deactivate and reactivate the theme, the grid items will be automatically added again.
+        </li>
+    </ul>
+</div>
+
+<p>Theme automatically enable Visual Composer editor for Headers, Footers and Portfolio. No additional configuration needed for this plugin.</p>
+<p>Detailed user guide can be found at the offical website: <a href="https://wpbakery.atlassian.net/wiki/display/VC/Visual+Composer+Pagebuilder+for+WordPress">Visual Composer User Guide</a></p>
+<h2 id="wpdance-htmlblock">WPDance HTMLBlock<a class="headerlink" href="#wpdance-htmlblock" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin is required to enable Headers & Footers drag & drop editor.</div>
+
+<p>Theme automatically add custom Headers &amp; Footers to this plugin when the theme is activated. No additional configuration needed.</p>
+<p><img alt="HTML Blocks" src="../img/htmlblocks.png" /></p>
+<div class="alert alert-info">
+    <ul class="fa-ul">
+        <li>
+            <i class="fa fa-info-circle fa-lg fa-li" aria-hidden="true"></i>
+            If you accidentially delete or want to restore the original version, just delete it, then deactivate and reactivate the theme again, it will be restored automatically.
+        </li>
+    </ul>
+</div>
+
+<p>For more detail how to use this plugin for managing Headers &amp; Footers, please read instruction in <a href="../htmlblocks/">Headers &amp; Footers</a> section.</p>
+<h2 id="wpdance-portfolio">WPDance Portfolio<a class="headerlink" href="#wpdance-portfolio" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin adds portfolio post type, portfolio shortcode and Visual Composer shortcode. Lets you create a simple and beautiful portfolio page.</div>
+
+<p>After installed and activated, a new menu <strong>Portfolios</strong> will appear on the admin menu:</p>
+<p><img alt="Portfolio plugin" src="../img/portfolio-plugin.png" /></p>
+<p>You can use <strong>WordPress Importer</strong> plugin to import sample portfolio items like our demo site. Please read instruction <a href="../quickstart/#import-sample-data">how to import sample data</a> in Quick Start section.</p>
+<h2 id="wpdance-testimonial">WPDance Testimonial<a class="headerlink" href="#wpdance-testimonial" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin adds Testimonial post type, Visual composer testimonial shortcode.</div>
+
+<p>After installed and activated, a new menu <strong>Testimonials</strong> will appear on the admin menu:</p>
+<p><img alt="Testimonial plugin" src="../img/testimonial-plugin.png" /></p>
+<p>You can use <strong>WordPress Importer</strong> plugin to import sample testimonial items like our demo site. Please read instruction <a href="../quickstart/#import-sample-data">how to import sample data</a> in Quick Start section.</p>
+<p>For showing testimonials on pages, please read instruction <a href="../howto/#show-testimonials-on-a-page">How to show testimonials on a page</a> in How-To section.</p>
+<h2 id="yith-woocommerce-quick-view">YITH WooCommerce Quick View<a class="headerlink" href="#yith-woocommerce-quick-view" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin enables product quick-view on the current page for WooCommerce.</div>
+
+<p><img alt="Quick View" src="../img/quickview.jpg" /></p>
+<p>After installed and activated the plugin, leave all plugin settings as default. There is no need additional configuration for this plugin.</p>
+<p><img alt="Quick View Configuration" src="../img/quickview-config.png" /></p>
+<h2 id="yith-woocommerce-wishlist">YITH WooCommerce Wishlist<a class="headerlink" href="#yith-woocommerce-wishlist" title="Permanent link">&para;</a></h2>
+<div class="lead">This plugin enable wishlist features for WooCommerce. Allows you to add Wishlist functionality to your e-commerce store.</div>
+
+<p><img alt="Wishlist" src="../img/wishlist.jpg" /></p>
+<p>After installed and activated the plugin, leave all plugin settings as default. There is no need additional configuration for this plugin.</p>
+<p><img alt="Wishlist Configuration" src="../img/wishlist-config.png" /></p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../htmlblocks/" class="btn btn-neutral float-right" title="Headers & Footers">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../pages/" class="btn btn-neutral" title="Setup Static Pages"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="http://www.mkdocs.org">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+	  
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+<div class="rst-versions" role="note" style="cursor: pointer">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="../pages/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../htmlblocks/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+
+</body>
+</html>
