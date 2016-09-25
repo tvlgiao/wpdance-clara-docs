@@ -1,0 +1,18 @@
+<div class="row">
+	<div class="col-sm-6">
+		<label class="sr-only" for="your-name">Your Name (required)</label>
+		[text* your-name class:form-control default:user_display_name placeholder "Your Name"]
+	</div>
+	<div class="col-sm-6">
+		<label class="sr-only" for="your-email">Your Email (required)</label>
+		[email* your-email class:form-control default:user_email placeholder "Your Email"]
+	</div>
+</div>
+
+<label class="sr-only" for="your-subject">Subject</label>
+[text* your-subject class:form-control placeholder "Subject"]
+
+<label class="sr-only" for="your-message">Message</label>
+[textarea your-message class:form-control placeholder "Message"]
+
+[submit class:btn class:btn-primary "Send"]

@@ -1,0 +1,27 @@
+.header-section-1 a {
+    color: inherit;
+}
+
+
+@media (min-width: 992px) {
+        
+    .site-header .header-main {
+        position: absolute;
+    }
+    
+    .header02-row-nav {
+        position: relative;
+    }
+    .header02-row-nav .vc_column_container {
+        position: static;
+    }
+
+    .header02-row-nav .ubermenu.ubermenu-skin-none.ubermenu-horizontal .ubermenu-nav {
+        margin-right: 0;
+    }
+    
+    .header02-row-nav .ubermenu.ubermenu-skin-none.ubermenu-horizontal .ubermenu-nav > .ubermenu-item > .ubermenu-target {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}

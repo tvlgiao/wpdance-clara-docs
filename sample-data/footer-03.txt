@@ -1,0 +1,36 @@
+[vc_row full_width="stretch_row" el_class="wpdanceclaratheme_style_footer_bgcolor3" css=".vc_custom_1472302787608{padding-top: 20px !important;padding-bottom: 20px !important;}"][vc_column][vc_empty_space height="30px" el_class="hidden-xs"][vc_icon icon_fontawesome="fa fa-envelope-o" size="lg" align="center" el_class="wpdanceclaratheme_style_footer_color4 hidden-xs" css=".vc_custom_1472302324408{margin-bottom: 30px !important;}"][vc_custom_heading text="Newsletter" font_container="tag:h2|text_align:center" use_theme_fonts="yes" css=".vc_custom_1472300139384{margin-bottom: 30px !important;}"][vc_raw_html css=".vc_custom_1474431921818{margin-bottom: 30px !important;}" el_class="text-center newsletter-form-container"]JTNDZm9ybSUyMGlkJTNEJTIybmV3c2xldHRlci1mb3JtJTIyJTIwYWN0aW9uJTNEJTIyJTIzJTIyJTIwbWV0aG9kJTNEJTIycG9zdCUyMiUyMGNsYXNzJTNEJTIyZm9ybS1pbmxpbmUlMjIlM0UlMEElMEElM0NkaXYlMjBjbGFzcyUzRCUyMmZvcm0tZ3JvdXAlMjIlM0UlMEElMEElM0NpbnB1dCUyMHR5cGUlM0QlMjJlbWFpbCUyMiUyMG5hbWUlM0QlMjJlbWFpbCUyMiUyMGlkJTNEJTIyZW1haWwlMjIlMjBjbGFzcyUzRCUyMmZvcm0tY29udHJvbCUyMiUyMHBsYWNlaG9sZGVyJTNEJTIyRW1haWwlMjBhZGRyZXNzJTIyJTNFJTBBJTBBJTNDJTJGZGl2JTNFJTBBJTBBJTNDYnV0dG9uJTIwdHlwZSUzRCUyMnN1Ym1pdCUyMiUyMG5hbWUlM0QlMjJzdWJtaXQlMjIlMjBpZCUzRCUyMm5ld3NsZXR0ZXItc3VibWl0JTIyJTIwY2xhc3MlM0QlMjJmcm9tLWNvbnRyb2wlMjBidG4lMjBidG4tYmxhY2slMjBidG4tYmxhY2staG92ZXIlMjBoaWRkZW4teHMlMjIlM0VTaWduJTIwVXAlM0MlMkZidXR0b24lM0UlMEElMEElM0MlMkZmb3JtJTNF[/vc_raw_html][vc_row_inner css=".vc_custom_1472300167845{margin-bottom: 50px !important;}"][vc_column_inner el_class="text-center"][vc_icon icon_fontawesome="fa fa-facebook" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060216729{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-twitter" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060426819{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-pinterest-p" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060505111{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-google-plus" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060516042{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-youtube" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060527466{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-vimeo" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060537971{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-instagram" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060550535{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-linkedin" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060561774{margin-bottom: 0px !important;padding-right: 5px !important;}"][/vc_column_inner][/vc_row_inner][vc_separator style="dotted" border_width="2" el_class="wpdanceclaratheme_style_general_bordercolor5" css=".vc_custom_1472300177249{margin-bottom: 50px !important;}"][vc_row_inner][vc_column_inner width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="About Us" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase bold small09"][vc_column_text el_class="small link-plain"]
+<ul class="list-unstyled">
+ 	<li><a href="#">Contact Us</a></li>
+ 	<li>Phone: 111-111-111</li>
+ 	<li>Open: Mon-Fri 9AM-5PM EST</li>
+ 	<li>249 Ung Van Khiem</li>
+ 	<li>Ho Chi Minh City, VN</li>
+</ul>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="WordPress Theme" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase bold small09"][vc_column_text el_class="small link-plain"]
+<ul class="list-unstyled">
+ 	<li><a href="#">SEO</a></li>
+ 	<li><a href="#">Responsive</a></li>
+ 	<li><a href="#">Mobile Friendly</a></li>
+ 	<li><a href="#">Visual Composer</a></li>
+ 	<li><a href="#">Revolution Slider</a></li>
+ 	<li><a href="#">WooCommerce</a></li>
+</ul>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="Unlimited Colors" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase bold small09"][vc_column_text el_class="small link-plain"]
+<ul class="list-unstyled">
+ 	<li><a href="#">Typography</a></li>
+ 	<li><a href="#">Colors &amp; Background</a></li>
+ 	<li><a href="#">Every Pages</a></li>
+ 	<li><a href="#">Any Elements</a></li>
+ 	<li><a href="#">Form &amp; Controls</a></li>
+ 	<li><a href="#">Bootstrap 3</a></li>
+</ul>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="Page Builder" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase bold small09"][vc_column_text el_class="small link-plain"]
+<ul class="list-unstyled">
+ 	<li><a href="#">Headers</a></li>
+ 	<li><a href="#">Footers</a></li>
+ 	<li><a href="#">Pages</a></li>
+ 	<li><a href="#">Shortcodes</a></li>
+ 	<li><a href="#">Widgets</a></li>
+ 	<li><a href="#">Visual Composer</a></li>
+</ul>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space height="30px" el_class="hidden-xs"][/vc_column][/vc_row][vc_row el_class="footer03-payment-icons" css=".vc_custom_1472306593236{padding-top: 30px !important;}"][vc_column offset="vc_col-md-offset-9 vc_col-md-3" css=".vc_custom_1472301787893{padding-right: 0px !important;padding-left: 0px !important;}"][vc_single_image source="external_link" alignment="center" css=".vc_custom_1472301476348{margin-bottom: 0px !important;}" custom_src="http://127.0.0.1/wp_clara/wp-content/uploads/2016/08/we-accept.png"][/vc_column][/vc_row]

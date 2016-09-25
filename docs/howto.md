@@ -96,7 +96,7 @@ Now, let's see the new sidebar were created. Go to **Appearance** > **Widgets**,
 
 
 
-## Show horizonal product fitlers on top of shop page
+## Show horizonal product filters on top of shop page
 
 Assume you already created the new sidebar "Product Filters" which will show up on WooCommerce pages only. This section, we will guide to show widgets like this:
 
@@ -281,7 +281,36 @@ In WordPress Customizer, click on **Typography & Color**:
 	+ **Sub Level Menu**
 	
 
+## Show Testimonials on a page
 
+### Testimonials Slider
+
+To show testimonials slider on a page like this:
+
+![Testimonials Slider](img/testimonials-slider.png)
+
+In admin page, edit a page by click on menu **Pages** > edit a page in Visual Composer editor mode.
+
+Click **Add Element** and choose **Post Grid**:
+
+![Choose Post Grid](img/choose-post-grid.png)
+
+Configure the post grid settings as showing below:
+
+![Configure post grid for testimonials slider](img/post-grid-testimoninal-slider.png)
+
+Click **Save** and preview the page.
+
+
+### Testimonials Grid
+
+To show testimonials grid like this:
+
+![Testimonials grid](img/testimonials-grid.png)
+
+Configure the post grid settings as showing below:
+
+![Configure post grid for testimonials grid](img/post-grid-testimoninal-grid.png)
 
 
 

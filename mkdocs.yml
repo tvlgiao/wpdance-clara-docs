@@ -5,6 +5,8 @@ pages:
 - Quick Start: quickstart.md
 - User Guide:
   - Setup Static Pages: pages.md
+  - Configure Plugins: plugins.md
+  - Headers & Footers: htmlblocks.md
   - How To: howto.md
 - Introduction: intro.md
 theme: readthedocs

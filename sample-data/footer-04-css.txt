@@ -1,0 +1,28 @@
+@media (min-width:768px) {
+    .footer04-payment-icons .vc_column_container {
+        height: 0;
+    }
+    .footer04-payment-icons .wpb_single_image {
+        text-align: right !important;
+    }
+    .footer04-payment-icons img {
+        position: absolute;
+        right: 15px;
+        bottom: -50px;
+    }
+    
+    .site-footer .newsletter-form-container input[type=email] {
+        width: 450px;
+    }
+    .site-footer .site-info {
+        text-align: left;
+    }
+}
+
+.site-footer .footer04-row .wpb_text_column li {
+    margin-bottom: 0.4em;
+}
+
+.site-info {
+    color: #a0a0a0;
+}

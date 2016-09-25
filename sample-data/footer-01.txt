@@ -1,0 +1,36 @@
+[vc_row gap="20" content_placement="middle" el_class="footer-section-1 wpdanceclaratheme_style_footer_bgcolor3" css=".vc_custom_1474540223708{margin-bottom: 30px !important;padding-top: 15px !important;padding-bottom: 15px !important;}"][vc_column width="1/3" el_class="vc-vertical-align-middle text-center-xs"][vc_single_image image="1709" img_size="full" css=".vc_custom_1474541539686{margin-bottom: 0px !important;}" el_class="text-center-xs-important"][/vc_column][vc_column width="1/3" el_class="text-center"][vc_icon icon_fontawesome="fa fa-facebook" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060216729{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-twitter" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060426819{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-pinterest-p" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060505111{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-google-plus" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060516042{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-youtube" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060527466{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-vimeo" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060537971{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-linkedin" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060561774{margin-bottom: 0px !important;padding-right: 5px !important;}"][vc_icon icon_fontawesome="fa fa-instagram" color="white" background_style="rounded" background_color="black" size="sm" link="url:%23|||" el_class="inline wpdanceclaratheme_style_footer_bgcolor2 wpdanceclaratheme_style_footer_color3 my-style" css=".vc_custom_1472060550535{margin-bottom: 0px !important;padding-right: 5px !important;}"][/vc_column][vc_column width="1/3" el_class="text-right"][vc_custom_heading text="Subscribe Newsletter" font_container="tag:h4|text_align:center" use_theme_fonts="yes" el_class="visible-xs-block" css=".vc_custom_1471284639661{margin-top: 0px !important;}"][vc_raw_html css=".vc_custom_1474431737580{margin-bottom: 0px !important;}"]JTNDZm9ybSUyMGlkJTNEJTIybmV3c2xldHRlci1mb3JtJTIyJTIwYWN0aW9uJTNEJTIyJTIzJTIyJTIwbWV0aG9kJTNEJTIycG9zdCUyMiUyMGNsYXNzJTNEJTIyZm9ybS1pbmxpbmUlMjIlM0UlMEElMEElM0NkaXYlMjBjbGFzcyUzRCUyMmZvcm0tZ3JvdXAlMjIlM0UlMEElMEElM0NpbnB1dCUyMHR5cGUlM0QlMjJlbWFpbCUyMiUyMG5hbWUlM0QlMjJlbWFpbCUyMiUyMGlkJTNEJTIyZW1haWwlMjIlMjBjbGFzcyUzRCUyMmZvcm0tY29udHJvbCUyMiUyMHBsYWNlaG9sZGVyJTNEJTIyRW1haWwlMjBhZGRyZXNzJTIyJTNFJTBBJTBBJTNDJTJGZGl2JTNFJTBBJTBBJTNDYnV0dG9uJTIwdHlwZSUzRCUyMnN1Ym1pdCUyMiUyMG5hbWUlM0QlMjJzdWJtaXQlMjIlMjBpZCUzRCUyMm5ld3NsZXR0ZXItc3VibWl0JTIyJTIwY2xhc3MlM0QlMjJmcm9tLWNvbnRyb2wlMjBidG4lMjBidG4tYmxhY2slMjBidG4tYmxhY2staG92ZXIlMjBoaWRkZW4teHMlMjIlM0VTaWduJTIwVXAlM0MlMkZidXR0b24lM0UlMEElMEElM0MlMkZmb3JtJTNF[/vc_raw_html][/vc_column][/vc_row][vc_row el_class="footer-section-2 link-plain"][vc_column width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="About Us" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase bold small09"][vc_column_text el_class="small"]
+<ul class="list-unstyled">
+ 	<li><a href="#">Contact Us</a></li>
+ 	<li>Phone: 111-111-111</li>
+ 	<li>Open: Mon-Fri 9AM-5PM EST</li>
+ 	<li>249 Ung Van Khiem</li>
+ 	<li>Ho Chi Minh City, VN</li>
+</ul>
+[/vc_column_text][/vc_column][vc_column width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="WordPress Theme" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase bold small09"][vc_column_text el_class="small"]
+<ul class="list-unstyled">
+ 	<li><a href="#">SEO</a></li>
+ 	<li><a href="#">Responsive</a></li>
+ 	<li><a href="#">Mobile Friendly</a></li>
+ 	<li><a href="#">Visual Composer</a></li>
+ 	<li><a href="#">Revolution Slider</a></li>
+ 	<li><a href="#">WooCommerce</a></li>
+</ul>
+[/vc_column_text][/vc_column][vc_column width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="Unlimited Colors" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase bold small09"][vc_column_text el_class="small"]
+<ul class="list-unstyled">
+ 	<li><a href="#">Typography</a></li>
+ 	<li><a href="#">Colors &amp; Background</a></li>
+ 	<li><a href="#">Every Pages</a></li>
+ 	<li><a href="#">Any Elements</a></li>
+ 	<li><a href="#">Form &amp; Controls</a></li>
+ 	<li><a href="#">Bootstrap 3</a></li>
+</ul>
+[/vc_column_text][/vc_column][vc_column width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="Page Builder" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase bold small09"][vc_column_text el_class="small"]
+<ul class="list-unstyled">
+ 	<li><a href="#">Headers</a></li>
+ 	<li><a href="#">Footers</a></li>
+ 	<li><a href="#">Pages</a></li>
+ 	<li><a href="#">Shortcodes</a></li>
+ 	<li><a href="#">Widgets</a></li>
+ 	<li><a href="#">Visual Composer</a></li>
+</ul>
+[/vc_column_text][/vc_column][/vc_row]

@@ -1,0 +1,7 @@
+.site-footer { 
+    font-weight: 400;
+}
+
+.site-info {
+    display: none;
+}

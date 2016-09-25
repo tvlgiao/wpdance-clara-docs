@@ -1,0 +1,44 @@
+[vc_row full_width="stretch_row" el_class="wpdanceclaratheme_style_general_bgcolor3 link-plain" css=".vc_custom_1473839294984{padding-top: 50px !important;padding-bottom: 50px !important;}"][vc_column width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="About Us" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase"][vc_column_text el_class="small09"]
+<ul class="list-unstyled">
+ 	<li><a href="#">Contact Us</a></li>
+ 	<li>Phone: 111-111-111</li>
+ 	<li>Open: Mon-Fri 9AM-5PM EST</li>
+ 	<li>249 Ung Van Khiem</li>
+ 	<li>Ho Chi Minh City, VN</li>
+</ul>
+[/vc_column_text][/vc_column][vc_column width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="WordPress Theme" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase"][vc_column_text el_class="small09"]
+<ul class="list-unstyled">
+ 	<li><a href="#">SEO</a></li>
+ 	<li><a href="#">Responsive</a></li>
+ 	<li><a href="#">Mobile Friendly</a></li>
+ 	<li><a href="#">Visual Composer</a></li>
+ 	<li><a href="#">Revolution Slider</a></li>
+ 	<li><a href="#">WooCommerce</a></li>
+</ul>
+[/vc_column_text][/vc_column][vc_column width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="Unlimited Colors" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase"][vc_column_text el_class="small09"]
+<ul class="list-unstyled">
+ 	<li><a href="#">Typography</a></li>
+ 	<li><a href="#">Colors &amp; Background</a></li>
+ 	<li><a href="#">Every Pages</a></li>
+ 	<li><a href="#">Any Elements</a></li>
+ 	<li><a href="#">Form &amp; Controls</a></li>
+ 	<li><a href="#">Bootstrap 3</a></li>
+</ul>
+[/vc_column_text][/vc_column][vc_column width="1/4" offset="vc_col-xs-6"][vc_custom_heading text="Page Builder" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="text-uppercase"][vc_column_text el_class="small09"]
+<ul class="list-unstyled">
+ 	<li><a href="#">Headers</a></li>
+ 	<li><a href="#">Footers</a></li>
+ 	<li><a href="#">Pages</a></li>
+ 	<li><a href="#">Shortcodes</a></li>
+ 	<li><a href="#">Widgets</a></li>
+ 	<li><a href="#">Visual Composer</a></li>
+</ul>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" el_class="wpdanceclaratheme_style_general_bgcolor3"][vc_column][vc_separator el_class="wpdanceclaratheme_style_general_bordercolor5_important"][vc_column_text el_class="text-center text-uppercase link-plain small09"]
+<ul class="list-unstyled list-inline">
+ 	<li><a href="#">About Us</a></li>
+ 	<li><a href="#">Contact Us</a></li>
+ 	<li><a href="#">Terms &amp; Conditions</a></li>
+ 	<li><a href="#">Return Policy</a></li>
+ 	<li><a href="#">Brands</a></li>
+</ul>
+[/vc_column_text][wpdanceclaratheme_single_image_hover source="external_link" alignment="center" custom_src="http://127.0.0.1/wp_clara/wp-content/uploads/2016/08/logo.png" button_link="http://"][/wpdanceclaratheme_single_image_hover][vc_column_text el_class="small text-center"]Copyright 2016 <a href="#">WordPress Theme</a> by <a href="http://wpdance.com/">WPDance</a>.[/vc_column_text][/vc_column][/vc_row]

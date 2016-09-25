@@ -1,0 +1,27 @@
+/**
+ * Override VC Icon Size Small has style (round, square, etc...)
+ */
+.vc_icon_element.vc_icon_element-outer.my-style .vc_icon_element-inner.vc_icon_element-size-sm.vc_icon_element-have-style-inner {
+	width: 2em !important;
+	height: 2em !important;
+}
+
+.vc_icon_element.vc_icon_element-outer.my-style .vc_icon_element-inner.vc_icon_element-size-sm .vc_icon_element-icon {
+    font-size: 1.285em !important;
+}
+
+@media (min-width:768px) {
+    .footer02-payment-icons {
+        margin: 0 !important;
+        padding: 0 !important;
+        height: 0;
+    }
+    .footer02-payment-icons .wpb_single_image {
+        text-align: right !important;
+    }
+    .footer02-payment-icons img {
+        position: absolute;
+        right: 15px;
+        bottom: -20px;
+    }
+}

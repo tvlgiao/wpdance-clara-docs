@@ -1,0 +1,11 @@
+/**
+ * Override VC Icon Size Small has style (round, square, etc...)
+ */
+.vc_icon_element.vc_icon_element-outer.my-style .vc_icon_element-inner.vc_icon_element-size-sm.vc_icon_element-have-style-inner {
+	width: 2em !important;
+	height: 2em !important;
+}
+
+.vc_icon_element.vc_icon_element-outer.my-style .vc_icon_element-inner.vc_icon_element-size-sm .vc_icon_element-icon {
+    font-size: 1.285em !important;
+}

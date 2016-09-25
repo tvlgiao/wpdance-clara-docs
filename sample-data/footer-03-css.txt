@@ -1,0 +1,32 @@
+/**
+ * Override VC Icon Size Small has style (round, square, etc...)
+ */
+.vc_icon_element.vc_icon_element-outer.my-style .vc_icon_element-inner.vc_icon_element-size-sm.vc_icon_element-have-style-inner {
+	width: 2em !important;
+	height: 2em !important;
+}
+
+.vc_icon_element.vc_icon_element-outer.my-style .vc_icon_element-inner.vc_icon_element-size-sm .vc_icon_element-icon {
+    font-size: 1.285em !important;
+}
+
+@media (min-width:768px) {
+    .footer03-payment-icons .vc_column_container {
+        height: 0;
+    }
+    .footer03-payment-icons .wpb_single_image {
+        text-align: right !important;
+    }
+    .footer03-payment-icons img {
+        position: absolute;
+        right: 15px;
+        bottom: -50px;
+    }
+    
+    .site-footer .newsletter-form-container input[type=email] {
+        width: 450px;
+    }
+    .site-footer .site-info {
+        text-align: left;
+    }
+}
