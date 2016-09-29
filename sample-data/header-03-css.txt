@@ -1,3 +1,1 @@
-.header-section-1 a {
-    color: inherit;
-}
+.vc_custom_1473959359931{margin-bottom: 20px !important;padding-top: 10px !important;padding-bottom: 10px !important;}.vc_custom_1472295335351{margin-bottom: 20px !important;}

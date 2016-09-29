@@ -1,7 +1,1 @@
-.site-footer { 
-    font-weight: 400;
-}
-
-.site-info {
-    display: none;
-}
+.vc_custom_1473839294984{padding-top: 50px !important;padding-bottom: 50px !important;}

@@ -1,11 +1,1 @@
-/**
- * Override VC Icon Size Small has style (round, square, etc...)
- */
-.vc_icon_element.vc_icon_element-outer.my-style .vc_icon_element-inner.vc_icon_element-size-sm.vc_icon_element-have-style-inner {
-	width: 2em !important;
-	height: 2em !important;
-}
-
-.vc_icon_element.vc_icon_element-outer.my-style .vc_icon_element-inner.vc_icon_element-size-sm .vc_icon_element-icon {
-    font-size: 1.285em !important;
-}
+.vc_custom_1474540223708{margin-bottom: 30px !important;padding-top: 15px !important;padding-bottom: 15px !important;}.vc_custom_1474541539686{margin-bottom: 0px !important;}.vc_custom_1472060216729{margin-bottom: 0px !important;padding-right: 5px !important;}.vc_custom_1472060426819{margin-bottom: 0px !important;padding-right: 5px !important;}.vc_custom_1472060505111{margin-bottom: 0px !important;padding-right: 5px !important;}.vc_custom_1472060516042{margin-bottom: 0px !important;padding-right: 5px !important;}.vc_custom_1472060527466{margin-bottom: 0px !important;padding-right: 5px !important;}.vc_custom_1472060537971{margin-bottom: 0px !important;padding-right: 5px !important;}.vc_custom_1472060561774{margin-bottom: 0px !important;padding-right: 5px !important;}.vc_custom_1472060550535{margin-bottom: 0px !important;padding-right: 5px !important;}.vc_custom_1471284639661{margin-top: 0px !important;}.vc_custom_1474431737580{margin-bottom: 0px !important;}

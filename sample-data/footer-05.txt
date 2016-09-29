@@ -41,4 +41,4 @@
  	<li><a href="#">Return Policy</a></li>
  	<li><a href="#">Brands</a></li>
 </ul>
-[/vc_column_text][wpdanceclaratheme_single_image_hover source="external_link" alignment="center" custom_src="http://127.0.0.1/wp_clara/wp-content/uploads/2016/08/logo.png" button_link="http://"][/wpdanceclaratheme_single_image_hover][vc_column_text el_class="small text-center"]Copyright 2016 <a href="#">WordPress Theme</a> by <a href="http://wpdance.com/">WPDance</a>.[/vc_column_text][/vc_column][/vc_row]
+[/vc_column_text][wpdanceclaratheme_single_image_hover source="external_link" alignment="center" custom_src="http://placehold.it/227x91" button_link="http://"][/wpdanceclaratheme_single_image_hover][vc_column_text el_class="small text-center"]Copyright 2016 <a href="#">WordPress Theme</a> by <a href="http://wpdance.com/">WPDance</a>.[/vc_column_text][/vc_column][/vc_row]
