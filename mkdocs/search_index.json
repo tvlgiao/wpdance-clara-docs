@@ -17,13 +17,23 @@
         }, 
         {
             "location": "/installation/", 
-            "text": "Theme Installation\n\n\nGo to \nhttps://themeforest.net/downloads\n and download the theme \nInstallable WordPress file only\n:\n\n\n\n\nLogin to your WordPress admin, go to \nAppearance\n \n \nThemes\n, click button \nAdd New\n. Then click button \nUpload Theme\n, choose the zip file and click button Install Now start uploading the theme:\n\n\n\n\nClick \nActivate\n to activate the theme:\n\n\n\n\nIf you see below messages, it means the theme is installed and activated successfully:\n\n\n\n\nClick the button \nTheme Quickstart\n appear above to open the \nQuick Start\n page.", 
+            "text": "Theme Installation\n\n\nVideo Installing Theme Step By Step\n\n\n\n\n\nInstallation\n\n\nGo to \nhttps://themeforest.net/downloads\n and download the theme \nInstallable WordPress file only\n:\n\n\n\n\nLogin to your WordPress admin, go to \nAppearance\n \n \nThemes\n, click button \nAdd New\n. Then click button \nUpload Theme\n, choose the zip file and click button Install Now start uploading the theme:\n\n\n\n\nClick \nActivate\n to activate the theme:\n\n\n\n\nIf you see below messages, it means the theme is installed and activated successfully:\n\n\n\n\nClick the button \nTheme Quickstart\n appear above to open the \nQuick Start\n page.", 
             "title": "Installation"
         }, 
         {
             "location": "/installation/#theme-installation", 
-            "text": "Go to  https://themeforest.net/downloads  and download the theme  Installable WordPress file only :   Login to your WordPress admin, go to  Appearance     Themes , click button  Add New . Then click button  Upload Theme , choose the zip file and click button Install Now start uploading the theme:   Click  Activate  to activate the theme:   If you see below messages, it means the theme is installed and activated successfully:   Click the button  Theme Quickstart  appear above to open the  Quick Start  page.", 
+            "text": "", 
             "title": "Theme Installation"
+        }, 
+        {
+            "location": "/installation/#video-installing-theme-step-by-step", 
+            "text": "", 
+            "title": "Video Installing Theme Step By Step"
+        }, 
+        {
+            "location": "/installation/#installation", 
+            "text": "Go to  https://themeforest.net/downloads  and download the theme  Installable WordPress file only :   Login to your WordPress admin, go to  Appearance     Themes , click button  Add New . Then click button  Upload Theme , choose the zip file and click button Install Now start uploading the theme:   Click  Activate  to activate the theme:   If you see below messages, it means the theme is installed and activated successfully:   Click the button  Theme Quickstart  appear above to open the  Quick Start  page.", 
+            "title": "Installation"
         }, 
         {
             "location": "/quickstart/", 
