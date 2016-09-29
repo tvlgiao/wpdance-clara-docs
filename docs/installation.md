@@ -1,5 +1,13 @@
 # Theme Installation
 
+
+## Video Installing Theme Step By Step
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/W2sb7WRE8hI" frameborder="0" allowfullscreen></iframe>
+
+
+## Installation
+
 Go to <https://themeforest.net/downloads> and download the theme **Installable WordPress file only**:
 
 ![Download Installable WordPress file only](img/download-theme-only.png)
