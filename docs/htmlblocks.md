@@ -51,7 +51,7 @@ Finally, click **Publish & Update** button to save the header/footer.
 
 ## Create Header 02
 
-Doing simliar Home 01 with below data:
+Doing simliar Header 01 with below data:
 
 - **Title**: `Header 02`
 - **Slug**: `wpdanceclaratheme-header-02`
@@ -61,7 +61,7 @@ Doing simliar Home 01 with below data:
 
 ## Create Header 03
 
-Doing simliar Home 01 with below data:
+Doing simliar Header 01 with below data:
 
 - **Title**: `Header 03`
 - **Slug**: `wpdanceclaratheme-header-03`
@@ -71,7 +71,7 @@ Doing simliar Home 01 with below data:
 
 ## Create Header 05
 
-Doing simliar Home 01 with below data:
+Doing simliar Header 01 with below data:
 
 - **Title**: `Header 05`
 - **Slug**: `wpdanceclaratheme-header-05`
@@ -81,17 +81,50 @@ Doing simliar Home 01 with below data:
 
 ## Create Header 06
 
-Doing simliar Home 01 with below data:
+Doing simliar Header 01 with below data:
 
 - **Title**: `Header 06`
 - **Slug**: `wpdanceclaratheme-header-06`
 - **Content**: Copy from content of file [sample-data/header-06.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/header-06.txt)
-- **Custom CSS settings**: Copy from content of file [sample-data/header-06-css.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/header-06-css.txt)
+- **Custom CSS settings**: N/A
+
+
+## Create Header 07
+
+Doing simliar Header 07 with below data:
+
+- **Title**: `Header 07`
+- **Slug**: `wpdanceclaratheme-header-07`
+- **Content**: Copy from content of file [sample-data/header-07.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/header-07.txt)
+- **Custom CSS settings**: N/A
+
+
+
+## Create Header 08
+
+Doing simliar Header 01 with below data:
+
+- **Title**: `Header 08`
+- **Slug**: `wpdanceclaratheme-header-08`
+- **Content**: Copy from content of file [sample-data/header-08.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/header-08.txt)
+- **Custom CSS settings**: Copy from content of file [sample-data/header-08-css.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/header-08-css.txt)
+
+
+
+## Create Header 08 With Slideshow
+
+Doing simliar Header 01 with below data:
+
+- **Title**: `Header 08 - With Slideshow`
+- **Slug**: `wpdanceclaratheme-header-08-with-slideshow`
+- **Content**: Copy from content of file [sample-data/header-08.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/header-08-with-slideshow.txt)
+- **Custom CSS settings**: Copy from content of file [sample-data/header-08-css.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/header-08-with-slideshow-css.txt)
+
 
 
 ## Create Footer 01
 
-Doing simliar Home 01 with below data:
+Doing simliar Header 01 with below data:
 
 - **Title**: `Footer 01`
 - **Slug**: `wpdanceclaratheme-footer-01`
@@ -101,7 +134,7 @@ Doing simliar Home 01 with below data:
 
 ## Create Footer 02
 
-Doing simliar Home 01 with below data:
+Doing simliar Header 01 with below data:
 
 - **Title**: `Footer 02`
 - **Slug**: `wpdanceclaratheme-footer-02`
@@ -111,7 +144,7 @@ Doing simliar Home 01 with below data:
 
 ## Create Footer 03
 
-Doing simliar Home 01 with below data:
+Doing simliar Header 01 with below data:
 
 - **Title**: `Footer 03`
 - **Slug**: `wpdanceclaratheme-footer-03`
@@ -121,7 +154,7 @@ Doing simliar Home 01 with below data:
 
 ## Create Footer 04
 
-Doing simliar Home 01 with below data:
+Doing simliar Header 01 with below data:
 
 - **Title**: `Footer 04`
 - **Slug**: `wpdanceclaratheme-footer-04`
@@ -131,7 +164,7 @@ Doing simliar Home 01 with below data:
 
 ## Create Footer 05
 
-Doing simliar Home 01 with below data:
+Doing simliar Header 01 with below data:
 
 - **Title**: `Footer 05`
 - **Slug**: `wpdanceclaratheme-footer-05`
@@ -143,12 +176,24 @@ Doing simliar Home 01 with below data:
 
 ## Create Footer 06
 
-Doing simliar Home 01 with below data:
+Doing simliar Header 01 with below data:
 
 - **Title**: `Footer 06`
 - **Slug**: `wpdanceclaratheme-footer-06`
 - **Content**: Copy from content of file [sample-data/footer-06.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/footer-06.txt)
 - **Custom CSS settings**: Copy from content of file [sample-data/footer-06-css.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/footer-06-css.txt)
+
+
+
+## Create Footer 07
+
+Doing simliar Header 01 with below data:
+
+- **Title**: `Footer 07`
+- **Slug**: `wpdanceclaratheme-footer-07`
+- **Content**: Copy from content of file [sample-data/footer-07.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/footer-07.txt)
+- **Custom CSS settings**: Copy from content of file [sample-data/footer-07-css.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/footer-07-css.txt)
+
 
 
 ## Configure Default Header & Footer

@@ -120,6 +120,34 @@ Do similiar **Home 01** but with contents:
 	- **Custom Footer**: `Footer 06`
 
 
+## Home 07
+
+Do similiar **Home 01** but with contents:
+
+- **Content**: [sample-data/page-home07.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/page-home07.txt)
+- **CSS Code**: Leave empty
+- **CLARA Options**:
+	- **Page Layout**: `Full Width`
+	- **Image Position**: `Default`
+	- **Hide Title**: `Yes`
+	- **Custom Header**: `Header 07`
+	- **Custom Footer**: `Footer 07`
+
+
+## Home 08
+
+Do similiar **Home 01** but with contents:
+
+- **Content**: [sample-data/page-home08.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/page-home08.txt)
+- **CSS Code**: [sample-data/page-home08-css.txt](https://raw.githubusercontent.com/tvlgiao/wpdance-clara-docs/master/sample-data/page-home08-css.txt)
+- **CLARA Options**:
+	- **Page Layout**: `Full Width`
+	- **Image Position**: `Default`
+	- **Hide Title**: `Yes`
+	- **Custom Header**: `Header 08 - With Slideshow`
+	- **Custom Footer**: `Footer 07`
+
+
 ## Coming Soon / Teaser
 
 Do similiar **Home 01** but with contents:
